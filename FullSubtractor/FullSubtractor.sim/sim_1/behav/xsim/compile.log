@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VeriLogProjects/FullSubtractor/FullSubtractor.srcs/sources_1/new/fullSub.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fullSub
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VeriLogProjects/FullSubtractor/FullSubtractor.srcs/sim_1/new/Tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Tb

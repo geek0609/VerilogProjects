@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../binary_graycode.srcs/sources_1/new/greycode.v" \
+"../../../../binary_graycode.srcs/sim_1/new/gcode.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../8x3encoder.srcs/sources_1/new/encoder8x3.v" \
+"../../../../8x3encoder.srcs/sim_1/new/tbenc.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

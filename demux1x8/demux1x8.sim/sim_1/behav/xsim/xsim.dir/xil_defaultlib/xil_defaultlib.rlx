@@ -1,0 +1,8 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+D:/VeriLogProjects/demux1x8/demux1x8.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+D:/VeriLogProjects/demux1x8/demux1x8.srcs/sim_1/new/tb_demux_1x8.v,1725503697,verilog,,,,tb_demux_1x8,,,,,,,,
+D:/VeriLogProjects/demux1x8/demux1x8.srcs/sources_1/new/demux_1x2.v,1725475655,verilog,,D:/VeriLogProjects/demux1x8/demux1x8.srcs/sources_1/new/demux_1x8.v,,demux_1x2,,,,,,,,
+D:/VeriLogProjects/demux1x8/demux1x8.srcs/sources_1/new/demux_1x8.v,1725523842,verilog,,D:/VeriLogProjects/demux1x8/demux1x8.srcs/sim_1/new/tb_demux_1x8.v,,demux_1x8,,,,,,,,

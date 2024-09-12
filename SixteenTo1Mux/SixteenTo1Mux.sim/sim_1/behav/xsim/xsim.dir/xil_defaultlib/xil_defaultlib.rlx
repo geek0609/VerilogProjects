@@ -1,0 +1,8 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+D:/VeriLogProjects/SixteenTo1Mux/SixteenTo1Mux.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+D:/VeriLogProjects/SixteenTo1Mux/SixteenTo1Mux.srcs/sim_1/new/tb_mux16to1.v,1724921523,verilog,,,,tb_mux16to1,,,,,,,,
+D:/VeriLogProjects/SixteenTo1Mux/SixteenTo1Mux.srcs/sources_1/new/mux16to1.v,1724899494,verilog,,D:/VeriLogProjects/SixteenTo1Mux/SixteenTo1Mux.srcs/sources_1/new/mux4to1.v,,mux16to1,,,,,,,,
+D:/VeriLogProjects/SixteenTo1Mux/SixteenTo1Mux.srcs/sources_1/new/mux4to1.v,1724918957,verilog,,D:/VeriLogProjects/SixteenTo1Mux/SixteenTo1Mux.srcs/sim_1/new/tb_mux16to1.v,,mux4to1,,,,,,,,

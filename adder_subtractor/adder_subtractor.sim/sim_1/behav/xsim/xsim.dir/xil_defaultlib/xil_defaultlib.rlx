@@ -1,0 +1,10 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+D:/VeriLogProjects/adder_subtractor/adder_subtractor.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+D:/VeriLogProjects/adder_subtractor/adder_subtractor.srcs/sim_1/new/tb.v,1725644583,verilog,,,,tb,,,,,,,,
+D:/VeriLogProjects/adder_subtractor/adder_subtractor.srcs/sources_1/new/add_sub.v,1725671952,verilog,,D:/VeriLogProjects/adder_subtractor/adder_subtractor.srcs/sources_1/new/comparator.v,,add_sub,,,,,,,,
+D:/VeriLogProjects/adder_subtractor/adder_subtractor.srcs/sources_1/new/comparator.v,1725611543,verilog,,D:/VeriLogProjects/adder_subtractor/adder_subtractor.srcs/sources_1/new/full_adder.v,,comparator,,,,,,,,
+D:/VeriLogProjects/adder_subtractor/adder_subtractor.srcs/sources_1/new/full_adder.v,1725608981,verilog,,D:/VeriLogProjects/adder_subtractor/adder_subtractor.srcs/sources_1/new/ripple_carry_adder_4bit.v,,full_adder,,,,,,,,
+D:/VeriLogProjects/adder_subtractor/adder_subtractor.srcs/sources_1/new/ripple_carry_adder_4bit.v,1725609009,verilog,,D:/VeriLogProjects/adder_subtractor/adder_subtractor.srcs/sim_1/new/tb.v,,ripple_carry_adder_4bit,,,,,,,,
