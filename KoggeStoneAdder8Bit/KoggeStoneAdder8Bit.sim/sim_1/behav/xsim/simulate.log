@@ -1,922 +1,937 @@
 Time resolution is 1 ps
-A=190 B= 40 Cin=0 | Sum=11100110 Cout=0
-A=190 B= 40 Cin=1 | Sum=11100111 Cout=0
-A=190 B= 41 Cin=0 | Sum=11100111 Cout=0
-A=190 B= 41 Cin=1 | Sum=11101100 Cout=0
-A=190 B= 42 Cin=0 | Sum=11101000 Cout=0
-A=190 B= 42 Cin=1 | Sum=11101001 Cout=0
-A=190 B= 43 Cin=0 | Sum=11101001 Cout=0
-A=190 B= 43 Cin=1 | Sum=11101010 Cout=0
-A=190 B= 44 Cin=0 | Sum=11101010 Cout=0
-A=190 B= 44 Cin=1 | Sum=11101011 Cout=0
-A=190 B= 45 Cin=0 | Sum=11101011 Cout=0
-A=190 B= 45 Cin=1 | Sum=11101000 Cout=0
-A=190 B= 46 Cin=0 | Sum=11101100 Cout=0
-A=190 B= 46 Cin=1 | Sum=11101101 Cout=0
-A=190 B= 47 Cin=0 | Sum=11101101 Cout=0
-A=190 B= 47 Cin=1 | Sum=11101110 Cout=0
-A=190 B= 48 Cin=0 | Sum=11101110 Cout=0
-A=190 B= 48 Cin=1 | Sum=11101111 Cout=0
-A=190 B= 49 Cin=0 | Sum=11101111 Cout=0
-A=190 B= 49 Cin=1 | Sum=11100100 Cout=0
-A=190 B= 50 Cin=0 | Sum=11110000 Cout=0
-A=190 B= 50 Cin=1 | Sum=11110001 Cout=0
-A=190 B= 51 Cin=0 | Sum=11110001 Cout=0
-A=190 B= 51 Cin=1 | Sum=11110010 Cout=0
-A=190 B= 52 Cin=0 | Sum=11110010 Cout=0
-A=190 B= 52 Cin=1 | Sum=11110011 Cout=0
-A=190 B= 53 Cin=0 | Sum=11110011 Cout=0
-A=190 B= 53 Cin=1 | Sum=11110000 Cout=0
-A=190 B= 54 Cin=0 | Sum=11110100 Cout=0
-A=190 B= 54 Cin=1 | Sum=11110101 Cout=0
-A=190 B= 55 Cin=0 | Sum=11110101 Cout=0
-A=190 B= 55 Cin=1 | Sum=11110110 Cout=0
-A=190 B= 56 Cin=0 | Sum=11110110 Cout=0
-A=190 B= 56 Cin=1 | Sum=11110111 Cout=0
-A=190 B= 57 Cin=0 | Sum=11110111 Cout=0
-A=190 B= 57 Cin=1 | Sum=11111100 Cout=0
-A=190 B= 58 Cin=0 | Sum=11111000 Cout=0
-A=190 B= 58 Cin=1 | Sum=11111001 Cout=0
-A=190 B= 59 Cin=0 | Sum=11111001 Cout=0
-A=190 B= 59 Cin=1 | Sum=11111010 Cout=0
-A=190 B= 60 Cin=0 | Sum=11111010 Cout=0
-A=190 B= 60 Cin=1 | Sum=11111011 Cout=0
-A=190 B= 61 Cin=0 | Sum=11111011 Cout=0
-A=190 B= 61 Cin=1 | Sum=11111000 Cout=0
-A=190 B= 62 Cin=0 | Sum=11111100 Cout=0
-A=190 B= 62 Cin=1 | Sum=11111101 Cout=0
-A=190 B= 63 Cin=0 | Sum=11111101 Cout=0
-A=190 B= 63 Cin=1 | Sum=11111110 Cout=0
-A=190 B= 64 Cin=0 | Sum=11111110 Cout=0
-A=190 B= 64 Cin=1 | Sum=11111111 Cout=0
-A=190 B= 65 Cin=0 | Sum=11111111 Cout=0
-A=190 B= 65 Cin=1 | Sum=01010100 Cout=0
-A=190 B= 66 Cin=0 | Sum=00000000 Cout=1
-A=190 B= 66 Cin=1 | Sum=00000001 Cout=1
-A=190 B= 67 Cin=0 | Sum=00000001 Cout=1
-A=190 B= 67 Cin=1 | Sum=00000010 Cout=1
-A=190 B= 68 Cin=0 | Sum=00000010 Cout=1
-A=190 B= 68 Cin=1 | Sum=00000011 Cout=1
-A=190 B= 69 Cin=0 | Sum=00000011 Cout=1
-A=190 B= 69 Cin=1 | Sum=00000000 Cout=1
-A=190 B= 70 Cin=0 | Sum=00000100 Cout=1
-A=190 B= 70 Cin=1 | Sum=00000101 Cout=1
-A=190 B= 71 Cin=0 | Sum=00000101 Cout=1
-A=190 B= 71 Cin=1 | Sum=00000110 Cout=1
-A=190 B= 72 Cin=0 | Sum=00000110 Cout=1
-A=190 B= 72 Cin=1 | Sum=00000111 Cout=1
-A=190 B= 73 Cin=0 | Sum=00000111 Cout=1
-A=190 B= 73 Cin=1 | Sum=00001100 Cout=1
-A=190 B= 74 Cin=0 | Sum=00001000 Cout=1
-A=190 B= 74 Cin=1 | Sum=00001001 Cout=1
-A=190 B= 75 Cin=0 | Sum=00001001 Cout=1
-A=190 B= 75 Cin=1 | Sum=00001010 Cout=1
-A=190 B= 76 Cin=0 | Sum=00001010 Cout=1
-A=190 B= 76 Cin=1 | Sum=00001011 Cout=1
-A=190 B= 77 Cin=0 | Sum=00001011 Cout=1
-A=190 B= 77 Cin=1 | Sum=00001000 Cout=1
-A=190 B= 78 Cin=0 | Sum=00001100 Cout=1
-A=190 B= 78 Cin=1 | Sum=00001101 Cout=1
-A=190 B= 79 Cin=0 | Sum=00001101 Cout=1
-A=190 B= 79 Cin=1 | Sum=00001110 Cout=1
-A=190 B= 80 Cin=0 | Sum=00001110 Cout=1
-A=190 B= 80 Cin=1 | Sum=00001111 Cout=1
-A=190 B= 81 Cin=0 | Sum=00001111 Cout=1
-A=190 B= 81 Cin=1 | Sum=00000100 Cout=1
-A=190 B= 82 Cin=0 | Sum=00010000 Cout=1
-A=190 B= 82 Cin=1 | Sum=00010001 Cout=1
-A=190 B= 83 Cin=0 | Sum=00010001 Cout=1
-A=190 B= 83 Cin=1 | Sum=00010010 Cout=1
-A=190 B= 84 Cin=0 | Sum=00010010 Cout=1
-A=190 B= 84 Cin=1 | Sum=00010011 Cout=1
-A=190 B= 85 Cin=0 | Sum=00010011 Cout=1
-A=190 B= 85 Cin=1 | Sum=00010000 Cout=1
-A=190 B= 86 Cin=0 | Sum=00010100 Cout=1
-A=190 B= 86 Cin=1 | Sum=00010101 Cout=1
-A=190 B= 87 Cin=0 | Sum=00010101 Cout=1
-A=190 B= 87 Cin=1 | Sum=00010110 Cout=1
-A=190 B= 88 Cin=0 | Sum=00010110 Cout=1
-A=190 B= 88 Cin=1 | Sum=00010111 Cout=1
-A=190 B= 89 Cin=0 | Sum=00010111 Cout=1
-A=190 B= 89 Cin=1 | Sum=00011100 Cout=1
-A=190 B= 90 Cin=0 | Sum=00011000 Cout=1
-A=190 B= 90 Cin=1 | Sum=00011001 Cout=1
-A=190 B= 91 Cin=0 | Sum=00011001 Cout=1
-A=190 B= 91 Cin=1 | Sum=00011010 Cout=1
-A=190 B= 92 Cin=0 | Sum=00011010 Cout=1
-A=190 B= 92 Cin=1 | Sum=00011011 Cout=1
-A=190 B= 93 Cin=0 | Sum=00011011 Cout=1
-A=190 B= 93 Cin=1 | Sum=00011000 Cout=1
-A=190 B= 94 Cin=0 | Sum=00011100 Cout=1
-A=190 B= 94 Cin=1 | Sum=00011101 Cout=1
-A=190 B= 95 Cin=0 | Sum=00011101 Cout=1
-A=190 B= 95 Cin=1 | Sum=00011110 Cout=1
-A=190 B= 96 Cin=0 | Sum=00011110 Cout=1
-A=190 B= 96 Cin=1 | Sum=00011111 Cout=1
-A=190 B= 97 Cin=0 | Sum=00011111 Cout=1
-A=190 B= 97 Cin=1 | Sum=00110100 Cout=1
-A=190 B= 98 Cin=0 | Sum=00100000 Cout=1
-A=190 B= 98 Cin=1 | Sum=00100001 Cout=1
-A=190 B= 99 Cin=0 | Sum=00100001 Cout=1
-A=190 B= 99 Cin=1 | Sum=00100010 Cout=1
-A=190 B=100 Cin=0 | Sum=00100010 Cout=1
-A=190 B=100 Cin=1 | Sum=00100011 Cout=1
-A=190 B=101 Cin=0 | Sum=00100011 Cout=1
-A=190 B=101 Cin=1 | Sum=00100000 Cout=1
-A=190 B=102 Cin=0 | Sum=00100100 Cout=1
-A=190 B=102 Cin=1 | Sum=00100101 Cout=1
-A=190 B=103 Cin=0 | Sum=00100101 Cout=1
-A=190 B=103 Cin=1 | Sum=00100110 Cout=1
-A=190 B=104 Cin=0 | Sum=00100110 Cout=1
-A=190 B=104 Cin=1 | Sum=00100111 Cout=1
-A=190 B=105 Cin=0 | Sum=00100111 Cout=1
-A=190 B=105 Cin=1 | Sum=00101100 Cout=1
-A=190 B=106 Cin=0 | Sum=00101000 Cout=1
-A=190 B=106 Cin=1 | Sum=00101001 Cout=1
-A=190 B=107 Cin=0 | Sum=00101001 Cout=1
-A=190 B=107 Cin=1 | Sum=00101010 Cout=1
-A=190 B=108 Cin=0 | Sum=00101010 Cout=1
-A=190 B=108 Cin=1 | Sum=00101011 Cout=1
-A=190 B=109 Cin=0 | Sum=00101011 Cout=1
-A=190 B=109 Cin=1 | Sum=00101000 Cout=1
-A=190 B=110 Cin=0 | Sum=00101100 Cout=1
-A=190 B=110 Cin=1 | Sum=00101101 Cout=1
-A=190 B=111 Cin=0 | Sum=00101101 Cout=1
-A=190 B=111 Cin=1 | Sum=00101110 Cout=1
-A=190 B=112 Cin=0 | Sum=00101110 Cout=1
-A=190 B=112 Cin=1 | Sum=00101111 Cout=1
-A=190 B=113 Cin=0 | Sum=00101111 Cout=1
-A=190 B=113 Cin=1 | Sum=00100100 Cout=1
-A=190 B=114 Cin=0 | Sum=00110000 Cout=1
-A=190 B=114 Cin=1 | Sum=00110001 Cout=1
-A=190 B=115 Cin=0 | Sum=00110001 Cout=1
-A=190 B=115 Cin=1 | Sum=00110010 Cout=1
-A=190 B=116 Cin=0 | Sum=00110010 Cout=1
-A=190 B=116 Cin=1 | Sum=00110011 Cout=1
-A=190 B=117 Cin=0 | Sum=00110011 Cout=1
-A=190 B=117 Cin=1 | Sum=00110000 Cout=1
-A=190 B=118 Cin=0 | Sum=00110100 Cout=1
-A=190 B=118 Cin=1 | Sum=00110101 Cout=1
-A=190 B=119 Cin=0 | Sum=00110101 Cout=1
-A=190 B=119 Cin=1 | Sum=00110110 Cout=1
-A=190 B=120 Cin=0 | Sum=00110110 Cout=1
-A=190 B=120 Cin=1 | Sum=00110111 Cout=1
-A=190 B=121 Cin=0 | Sum=00110111 Cout=1
-A=190 B=121 Cin=1 | Sum=00111100 Cout=1
-A=190 B=122 Cin=0 | Sum=00111000 Cout=1
-A=190 B=122 Cin=1 | Sum=00111001 Cout=1
-A=190 B=123 Cin=0 | Sum=00111001 Cout=1
-A=190 B=123 Cin=1 | Sum=00111010 Cout=1
-A=190 B=124 Cin=0 | Sum=00111010 Cout=1
-A=190 B=124 Cin=1 | Sum=00111011 Cout=1
-A=190 B=125 Cin=0 | Sum=00111011 Cout=1
-A=190 B=125 Cin=1 | Sum=00111000 Cout=1
-A=190 B=126 Cin=0 | Sum=00111100 Cout=1
-A=190 B=126 Cin=1 | Sum=00111101 Cout=1
-A=190 B=127 Cin=0 | Sum=00111101 Cout=1
-A=190 B=127 Cin=1 | Sum=00111110 Cout=1
-A=190 B=128 Cin=0 | Sum=00111110 Cout=1
-A=190 B=128 Cin=1 | Sum=00111111 Cout=1
-A=190 B=129 Cin=0 | Sum=00111111 Cout=1
-A=190 B=129 Cin=1 | Sum=00010100 Cout=1
-A=190 B=130 Cin=0 | Sum=01000000 Cout=1
-A=190 B=130 Cin=1 | Sum=01000001 Cout=1
-A=190 B=131 Cin=0 | Sum=01000001 Cout=1
-A=190 B=131 Cin=1 | Sum=01000010 Cout=1
-A=190 B=132 Cin=0 | Sum=01000010 Cout=1
-A=190 B=132 Cin=1 | Sum=01000011 Cout=1
-A=190 B=133 Cin=0 | Sum=01000011 Cout=1
-A=190 B=133 Cin=1 | Sum=01000000 Cout=1
-A=190 B=134 Cin=0 | Sum=01000100 Cout=1
-A=190 B=134 Cin=1 | Sum=01000101 Cout=1
-A=190 B=135 Cin=0 | Sum=01000101 Cout=1
-A=190 B=135 Cin=1 | Sum=01000110 Cout=1
-A=190 B=136 Cin=0 | Sum=01000110 Cout=1
-A=190 B=136 Cin=1 | Sum=01000111 Cout=1
-A=190 B=137 Cin=0 | Sum=01000111 Cout=1
-A=190 B=137 Cin=1 | Sum=01001100 Cout=1
-A=190 B=138 Cin=0 | Sum=01001000 Cout=1
-A=190 B=138 Cin=1 | Sum=01001001 Cout=1
-A=190 B=139 Cin=0 | Sum=01001001 Cout=1
-A=190 B=139 Cin=1 | Sum=01001010 Cout=1
-A=190 B=140 Cin=0 | Sum=01001010 Cout=1
-A=190 B=140 Cin=1 | Sum=01001011 Cout=1
-A=190 B=141 Cin=0 | Sum=01001011 Cout=1
-A=190 B=141 Cin=1 | Sum=01001000 Cout=1
-A=190 B=142 Cin=0 | Sum=01001100 Cout=1
-A=190 B=142 Cin=1 | Sum=01001101 Cout=1
-A=190 B=143 Cin=0 | Sum=01001101 Cout=1
-A=190 B=143 Cin=1 | Sum=01001110 Cout=1
-A=190 B=144 Cin=0 | Sum=01001110 Cout=1
-A=190 B=144 Cin=1 | Sum=01001111 Cout=1
-A=190 B=145 Cin=0 | Sum=01001111 Cout=1
-A=190 B=145 Cin=1 | Sum=01000100 Cout=1
-A=190 B=146 Cin=0 | Sum=01010000 Cout=1
-A=190 B=146 Cin=1 | Sum=01010001 Cout=1
-A=190 B=147 Cin=0 | Sum=01010001 Cout=1
-A=190 B=147 Cin=1 | Sum=01010010 Cout=1
-A=190 B=148 Cin=0 | Sum=01010010 Cout=1
-A=190 B=148 Cin=1 | Sum=01010011 Cout=1
-A=190 B=149 Cin=0 | Sum=01010011 Cout=1
-A=190 B=149 Cin=1 | Sum=01010000 Cout=1
-A=190 B=150 Cin=0 | Sum=01010100 Cout=1
-A=190 B=150 Cin=1 | Sum=01010101 Cout=1
-A=190 B=151 Cin=0 | Sum=01010101 Cout=1
-A=190 B=151 Cin=1 | Sum=01010110 Cout=1
-A=190 B=152 Cin=0 | Sum=01010110 Cout=1
-A=190 B=152 Cin=1 | Sum=01010111 Cout=1
-A=190 B=153 Cin=0 | Sum=01010111 Cout=1
-A=190 B=153 Cin=1 | Sum=01011100 Cout=1
-A=190 B=154 Cin=0 | Sum=01011000 Cout=1
-A=190 B=154 Cin=1 | Sum=01011001 Cout=1
-A=190 B=155 Cin=0 | Sum=01011001 Cout=1
-A=190 B=155 Cin=1 | Sum=01011010 Cout=1
-A=190 B=156 Cin=0 | Sum=01011010 Cout=1
-A=190 B=156 Cin=1 | Sum=01011011 Cout=1
-A=190 B=157 Cin=0 | Sum=01011011 Cout=1
-A=190 B=157 Cin=1 | Sum=01011000 Cout=1
-A=190 B=158 Cin=0 | Sum=01011100 Cout=1
-A=190 B=158 Cin=1 | Sum=01011101 Cout=1
-A=190 B=159 Cin=0 | Sum=01011101 Cout=1
-A=190 B=159 Cin=1 | Sum=01011110 Cout=1
-A=190 B=160 Cin=0 | Sum=01011110 Cout=1
-A=190 B=160 Cin=1 | Sum=01011111 Cout=1
-A=190 B=161 Cin=0 | Sum=01011111 Cout=1
-A=190 B=161 Cin=1 | Sum=01110100 Cout=1
-A=190 B=162 Cin=0 | Sum=01100000 Cout=1
-A=190 B=162 Cin=1 | Sum=01100001 Cout=1
-A=190 B=163 Cin=0 | Sum=01100001 Cout=1
-A=190 B=163 Cin=1 | Sum=01100010 Cout=1
-A=190 B=164 Cin=0 | Sum=01100010 Cout=1
-A=190 B=164 Cin=1 | Sum=01100011 Cout=1
-A=190 B=165 Cin=0 | Sum=01100011 Cout=1
-A=190 B=165 Cin=1 | Sum=01100000 Cout=1
-A=190 B=166 Cin=0 | Sum=01100100 Cout=1
-A=190 B=166 Cin=1 | Sum=01100101 Cout=1
-A=190 B=167 Cin=0 | Sum=01100101 Cout=1
-A=190 B=167 Cin=1 | Sum=01100110 Cout=1
-A=190 B=168 Cin=0 | Sum=01100110 Cout=1
-A=190 B=168 Cin=1 | Sum=01100111 Cout=1
-A=190 B=169 Cin=0 | Sum=01100111 Cout=1
-A=190 B=169 Cin=1 | Sum=01101100 Cout=1
-A=190 B=170 Cin=0 | Sum=01101000 Cout=1
-A=190 B=170 Cin=1 | Sum=01101001 Cout=1
-A=190 B=171 Cin=0 | Sum=01101001 Cout=1
-A=190 B=171 Cin=1 | Sum=01101010 Cout=1
-A=190 B=172 Cin=0 | Sum=01101010 Cout=1
-A=190 B=172 Cin=1 | Sum=01101011 Cout=1
-A=190 B=173 Cin=0 | Sum=01101011 Cout=1
-A=190 B=173 Cin=1 | Sum=01101000 Cout=1
-A=190 B=174 Cin=0 | Sum=01101100 Cout=1
-A=190 B=174 Cin=1 | Sum=01101101 Cout=1
-A=190 B=175 Cin=0 | Sum=01101101 Cout=1
-A=190 B=175 Cin=1 | Sum=01101110 Cout=1
-A=190 B=176 Cin=0 | Sum=01101110 Cout=1
-A=190 B=176 Cin=1 | Sum=01101111 Cout=1
-A=190 B=177 Cin=0 | Sum=01101111 Cout=1
-A=190 B=177 Cin=1 | Sum=01100100 Cout=1
-A=190 B=178 Cin=0 | Sum=01110000 Cout=1
-A=190 B=178 Cin=1 | Sum=01110001 Cout=1
-A=190 B=179 Cin=0 | Sum=01110001 Cout=1
-A=190 B=179 Cin=1 | Sum=01110010 Cout=1
-A=190 B=180 Cin=0 | Sum=01110010 Cout=1
-A=190 B=180 Cin=1 | Sum=01110011 Cout=1
-A=190 B=181 Cin=0 | Sum=01110011 Cout=1
-A=190 B=181 Cin=1 | Sum=01110000 Cout=1
-A=190 B=182 Cin=0 | Sum=01110100 Cout=1
-A=190 B=182 Cin=1 | Sum=01110101 Cout=1
-A=190 B=183 Cin=0 | Sum=01110101 Cout=1
-A=190 B=183 Cin=1 | Sum=01110110 Cout=1
-A=190 B=184 Cin=0 | Sum=01110110 Cout=1
-A=190 B=184 Cin=1 | Sum=01110111 Cout=1
-A=190 B=185 Cin=0 | Sum=01110111 Cout=1
-A=190 B=185 Cin=1 | Sum=01111100 Cout=1
-A=190 B=186 Cin=0 | Sum=01111000 Cout=1
-A=190 B=186 Cin=1 | Sum=01111001 Cout=1
-A=190 B=187 Cin=0 | Sum=01111001 Cout=1
-A=190 B=187 Cin=1 | Sum=01111010 Cout=1
-A=190 B=188 Cin=0 | Sum=01111010 Cout=1
-A=190 B=188 Cin=1 | Sum=01111011 Cout=1
-A=190 B=189 Cin=0 | Sum=01111011 Cout=1
-A=190 B=189 Cin=1 | Sum=01111000 Cout=1
-A=190 B=190 Cin=0 | Sum=01111100 Cout=1
-A=190 B=190 Cin=1 | Sum=01111101 Cout=1
-A=190 B=191 Cin=0 | Sum=01111101 Cout=1
-A=190 B=191 Cin=1 | Sum=01111110 Cout=1
-A=190 B=192 Cin=0 | Sum=01111110 Cout=1
-A=190 B=192 Cin=1 | Sum=01111111 Cout=1
-A=190 B=193 Cin=0 | Sum=01111111 Cout=1
-A=190 B=193 Cin=1 | Sum=11010100 Cout=1
-A=190 B=194 Cin=0 | Sum=10000000 Cout=1
-A=190 B=194 Cin=1 | Sum=10000001 Cout=1
-A=190 B=195 Cin=0 | Sum=10000001 Cout=1
-A=190 B=195 Cin=1 | Sum=10000010 Cout=1
-A=190 B=196 Cin=0 | Sum=10000010 Cout=1
-A=190 B=196 Cin=1 | Sum=10000011 Cout=1
-A=190 B=197 Cin=0 | Sum=10000011 Cout=1
-A=190 B=197 Cin=1 | Sum=10000000 Cout=1
-A=190 B=198 Cin=0 | Sum=10000100 Cout=1
-A=190 B=198 Cin=1 | Sum=10000101 Cout=1
-A=190 B=199 Cin=0 | Sum=10000101 Cout=1
-A=190 B=199 Cin=1 | Sum=10000110 Cout=1
-A=190 B=200 Cin=0 | Sum=10000110 Cout=1
-A=190 B=200 Cin=1 | Sum=10000111 Cout=1
-A=190 B=201 Cin=0 | Sum=10000111 Cout=1
-A=190 B=201 Cin=1 | Sum=10001100 Cout=1
-A=190 B=202 Cin=0 | Sum=10001000 Cout=1
-A=190 B=202 Cin=1 | Sum=10001001 Cout=1
-A=190 B=203 Cin=0 | Sum=10001001 Cout=1
-A=190 B=203 Cin=1 | Sum=10001010 Cout=1
-A=190 B=204 Cin=0 | Sum=10001010 Cout=1
-A=190 B=204 Cin=1 | Sum=10001011 Cout=1
-A=190 B=205 Cin=0 | Sum=10001011 Cout=1
-A=190 B=205 Cin=1 | Sum=10001000 Cout=1
-A=190 B=206 Cin=0 | Sum=10001100 Cout=1
-A=190 B=206 Cin=1 | Sum=10001101 Cout=1
-A=190 B=207 Cin=0 | Sum=10001101 Cout=1
-A=190 B=207 Cin=1 | Sum=10001110 Cout=1
-A=190 B=208 Cin=0 | Sum=10001110 Cout=1
-A=190 B=208 Cin=1 | Sum=10001111 Cout=1
-A=190 B=209 Cin=0 | Sum=10001111 Cout=1
-A=190 B=209 Cin=1 | Sum=10000100 Cout=1
-A=190 B=210 Cin=0 | Sum=10010000 Cout=1
-A=190 B=210 Cin=1 | Sum=10010001 Cout=1
-A=190 B=211 Cin=0 | Sum=10010001 Cout=1
-A=190 B=211 Cin=1 | Sum=10010010 Cout=1
-A=190 B=212 Cin=0 | Sum=10010010 Cout=1
-A=190 B=212 Cin=1 | Sum=10010011 Cout=1
-A=190 B=213 Cin=0 | Sum=10010011 Cout=1
-A=190 B=213 Cin=1 | Sum=10010000 Cout=1
-A=190 B=214 Cin=0 | Sum=10010100 Cout=1
-A=190 B=214 Cin=1 | Sum=10010101 Cout=1
-A=190 B=215 Cin=0 | Sum=10010101 Cout=1
-A=190 B=215 Cin=1 | Sum=10010110 Cout=1
-A=190 B=216 Cin=0 | Sum=10010110 Cout=1
-A=190 B=216 Cin=1 | Sum=10010111 Cout=1
-A=190 B=217 Cin=0 | Sum=10010111 Cout=1
-A=190 B=217 Cin=1 | Sum=10011100 Cout=1
-A=190 B=218 Cin=0 | Sum=10011000 Cout=1
-A=190 B=218 Cin=1 | Sum=10011001 Cout=1
-A=190 B=219 Cin=0 | Sum=10011001 Cout=1
-A=190 B=219 Cin=1 | Sum=10011010 Cout=1
-A=190 B=220 Cin=0 | Sum=10011010 Cout=1
-A=190 B=220 Cin=1 | Sum=10011011 Cout=1
-A=190 B=221 Cin=0 | Sum=10011011 Cout=1
-A=190 B=221 Cin=1 | Sum=10011000 Cout=1
-A=190 B=222 Cin=0 | Sum=10011100 Cout=1
-A=190 B=222 Cin=1 | Sum=10011101 Cout=1
-A=190 B=223 Cin=0 | Sum=10011101 Cout=1
-A=190 B=223 Cin=1 | Sum=10011110 Cout=1
-A=190 B=224 Cin=0 | Sum=10011110 Cout=1
-A=190 B=224 Cin=1 | Sum=10011111 Cout=1
-A=190 B=225 Cin=0 | Sum=10011111 Cout=1
-A=190 B=225 Cin=1 | Sum=10110100 Cout=1
-A=190 B=226 Cin=0 | Sum=10100000 Cout=1
-A=190 B=226 Cin=1 | Sum=10100001 Cout=1
-A=190 B=227 Cin=0 | Sum=10100001 Cout=1
-A=190 B=227 Cin=1 | Sum=10100010 Cout=1
-A=190 B=228 Cin=0 | Sum=10100010 Cout=1
-A=190 B=228 Cin=1 | Sum=10100011 Cout=1
-A=190 B=229 Cin=0 | Sum=10100011 Cout=1
-A=190 B=229 Cin=1 | Sum=10100000 Cout=1
-A=190 B=230 Cin=0 | Sum=10100100 Cout=1
-A=190 B=230 Cin=1 | Sum=10100101 Cout=1
-A=190 B=231 Cin=0 | Sum=10100101 Cout=1
-A=190 B=231 Cin=1 | Sum=10100110 Cout=1
-A=190 B=232 Cin=0 | Sum=10100110 Cout=1
-A=190 B=232 Cin=1 | Sum=10100111 Cout=1
-A=190 B=233 Cin=0 | Sum=10100111 Cout=1
-A=190 B=233 Cin=1 | Sum=10101100 Cout=1
-A=190 B=234 Cin=0 | Sum=10101000 Cout=1
-A=190 B=234 Cin=1 | Sum=10101001 Cout=1
-A=190 B=235 Cin=0 | Sum=10101001 Cout=1
-A=190 B=235 Cin=1 | Sum=10101010 Cout=1
-A=190 B=236 Cin=0 | Sum=10101010 Cout=1
-A=190 B=236 Cin=1 | Sum=10101011 Cout=1
-A=190 B=237 Cin=0 | Sum=10101011 Cout=1
-A=190 B=237 Cin=1 | Sum=10101000 Cout=1
-A=190 B=238 Cin=0 | Sum=10101100 Cout=1
-A=190 B=238 Cin=1 | Sum=10101101 Cout=1
-A=190 B=239 Cin=0 | Sum=10101101 Cout=1
-A=190 B=239 Cin=1 | Sum=10101110 Cout=1
-A=190 B=240 Cin=0 | Sum=10101110 Cout=1
-A=190 B=240 Cin=1 | Sum=10101111 Cout=1
-A=190 B=241 Cin=0 | Sum=10101111 Cout=1
-A=190 B=241 Cin=1 | Sum=10100100 Cout=1
-A=190 B=242 Cin=0 | Sum=10110000 Cout=1
-A=190 B=242 Cin=1 | Sum=10110001 Cout=1
-A=190 B=243 Cin=0 | Sum=10110001 Cout=1
-A=190 B=243 Cin=1 | Sum=10110010 Cout=1
-A=190 B=244 Cin=0 | Sum=10110010 Cout=1
-A=190 B=244 Cin=1 | Sum=10110011 Cout=1
-A=190 B=245 Cin=0 | Sum=10110011 Cout=1
-A=190 B=245 Cin=1 | Sum=10110000 Cout=1
-A=190 B=246 Cin=0 | Sum=10110100 Cout=1
-A=190 B=246 Cin=1 | Sum=10110101 Cout=1
-A=190 B=247 Cin=0 | Sum=10110101 Cout=1
-A=190 B=247 Cin=1 | Sum=10110110 Cout=1
-A=190 B=248 Cin=0 | Sum=10110110 Cout=1
-A=190 B=248 Cin=1 | Sum=10110111 Cout=1
-A=190 B=249 Cin=0 | Sum=10110111 Cout=1
-A=190 B=249 Cin=1 | Sum=10111100 Cout=1
-A=190 B=250 Cin=0 | Sum=10111000 Cout=1
-A=190 B=250 Cin=1 | Sum=10111001 Cout=1
-A=190 B=251 Cin=0 | Sum=10111001 Cout=1
-A=190 B=251 Cin=1 | Sum=10111010 Cout=1
-A=190 B=252 Cin=0 | Sum=10111010 Cout=1
-A=190 B=252 Cin=1 | Sum=10111011 Cout=1
-A=190 B=253 Cin=0 | Sum=10111011 Cout=1
-A=190 B=253 Cin=1 | Sum=10111000 Cout=1
-A=190 B=254 Cin=0 | Sum=10111100 Cout=1
-A=190 B=254 Cin=1 | Sum=10111101 Cout=1
-A=190 B=255 Cin=0 | Sum=10111101 Cout=1
-A=190 B=255 Cin=1 | Sum=10111110 Cout=1
-A=191 B= 40 Cin=0 | Sum=11100111 Cout=0
-A=191 B= 40 Cin=1 | Sum=11101100 Cout=0
-A=191 B= 41 Cin=0 | Sum=11101000 Cout=0
-A=191 B= 41 Cin=1 | Sum=11101001 Cout=0
-A=191 B= 42 Cin=0 | Sum=11101001 Cout=0
-A=191 B= 42 Cin=1 | Sum=11101010 Cout=0
-A=191 B= 43 Cin=0 | Sum=11101010 Cout=0
-A=191 B= 43 Cin=1 | Sum=11101011 Cout=0
-A=191 B= 44 Cin=0 | Sum=11101011 Cout=0
-A=191 B= 44 Cin=1 | Sum=11101000 Cout=0
-A=191 B= 45 Cin=0 | Sum=11101100 Cout=0
-A=191 B= 45 Cin=1 | Sum=11101101 Cout=0
-A=191 B= 46 Cin=0 | Sum=11101101 Cout=0
-A=191 B= 46 Cin=1 | Sum=11101110 Cout=0
-A=191 B= 47 Cin=0 | Sum=11101110 Cout=0
-A=191 B= 47 Cin=1 | Sum=11101111 Cout=0
-A=191 B= 48 Cin=0 | Sum=11101111 Cout=0
-A=191 B= 48 Cin=1 | Sum=11100100 Cout=0
-A=191 B= 49 Cin=0 | Sum=11110000 Cout=0
-A=191 B= 49 Cin=1 | Sum=11110001 Cout=0
-A=191 B= 50 Cin=0 | Sum=11110001 Cout=0
-A=191 B= 50 Cin=1 | Sum=11110010 Cout=0
-A=191 B= 51 Cin=0 | Sum=11110010 Cout=0
-A=191 B= 51 Cin=1 | Sum=11110011 Cout=0
-A=191 B= 52 Cin=0 | Sum=11110011 Cout=0
-A=191 B= 52 Cin=1 | Sum=11110000 Cout=0
-A=191 B= 53 Cin=0 | Sum=11110100 Cout=0
-A=191 B= 53 Cin=1 | Sum=11110101 Cout=0
-A=191 B= 54 Cin=0 | Sum=11110101 Cout=0
-A=191 B= 54 Cin=1 | Sum=11110110 Cout=0
-A=191 B= 55 Cin=0 | Sum=11110110 Cout=0
-A=191 B= 55 Cin=1 | Sum=11110111 Cout=0
-A=191 B= 56 Cin=0 | Sum=11110111 Cout=0
-A=191 B= 56 Cin=1 | Sum=11111100 Cout=0
-A=191 B= 57 Cin=0 | Sum=11111000 Cout=0
-A=191 B= 57 Cin=1 | Sum=11111001 Cout=0
-A=191 B= 58 Cin=0 | Sum=11111001 Cout=0
-A=191 B= 58 Cin=1 | Sum=11111010 Cout=0
-A=191 B= 59 Cin=0 | Sum=11111010 Cout=0
-A=191 B= 59 Cin=1 | Sum=11111011 Cout=0
-A=191 B= 60 Cin=0 | Sum=11111011 Cout=0
-A=191 B= 60 Cin=1 | Sum=11111000 Cout=0
-A=191 B= 61 Cin=0 | Sum=11111100 Cout=0
-A=191 B= 61 Cin=1 | Sum=11111101 Cout=0
-A=191 B= 62 Cin=0 | Sum=11111101 Cout=0
-A=191 B= 62 Cin=1 | Sum=11111110 Cout=0
-A=191 B= 63 Cin=0 | Sum=11111110 Cout=0
-A=191 B= 63 Cin=1 | Sum=11111111 Cout=0
-A=191 B= 64 Cin=0 | Sum=11111111 Cout=0
-A=191 B= 64 Cin=1 | Sum=01010100 Cout=0
-A=191 B= 65 Cin=0 | Sum=00000000 Cout=1
-A=191 B= 65 Cin=1 | Sum=00000001 Cout=1
-A=191 B= 66 Cin=0 | Sum=00000001 Cout=1
-A=191 B= 66 Cin=1 | Sum=00000010 Cout=1
-A=191 B= 67 Cin=0 | Sum=00000010 Cout=1
-A=191 B= 67 Cin=1 | Sum=00000011 Cout=1
-A=191 B= 68 Cin=0 | Sum=00000011 Cout=1
-A=191 B= 68 Cin=1 | Sum=00000000 Cout=1
-A=191 B= 69 Cin=0 | Sum=00000100 Cout=1
-A=191 B= 69 Cin=1 | Sum=00000101 Cout=1
-A=191 B= 70 Cin=0 | Sum=00000101 Cout=1
-A=191 B= 70 Cin=1 | Sum=00000110 Cout=1
-A=191 B= 71 Cin=0 | Sum=00000110 Cout=1
-A=191 B= 71 Cin=1 | Sum=00000111 Cout=1
-A=191 B= 72 Cin=0 | Sum=00000111 Cout=1
-A=191 B= 72 Cin=1 | Sum=00001100 Cout=1
-A=191 B= 73 Cin=0 | Sum=00001000 Cout=1
-A=191 B= 73 Cin=1 | Sum=00001001 Cout=1
-A=191 B= 74 Cin=0 | Sum=00001001 Cout=1
-A=191 B= 74 Cin=1 | Sum=00001010 Cout=1
-A=191 B= 75 Cin=0 | Sum=00001010 Cout=1
-A=191 B= 75 Cin=1 | Sum=00001011 Cout=1
-A=191 B= 76 Cin=0 | Sum=00001011 Cout=1
-A=191 B= 76 Cin=1 | Sum=00001000 Cout=1
-A=191 B= 77 Cin=0 | Sum=00001100 Cout=1
-A=191 B= 77 Cin=1 | Sum=00001101 Cout=1
-A=191 B= 78 Cin=0 | Sum=00001101 Cout=1
-A=191 B= 78 Cin=1 | Sum=00001110 Cout=1
-A=191 B= 79 Cin=0 | Sum=00001110 Cout=1
-A=191 B= 79 Cin=1 | Sum=00001111 Cout=1
-A=191 B= 80 Cin=0 | Sum=00001111 Cout=1
-A=191 B= 80 Cin=1 | Sum=00000100 Cout=1
-A=191 B= 81 Cin=0 | Sum=00010000 Cout=1
-A=191 B= 81 Cin=1 | Sum=00010001 Cout=1
-A=191 B= 82 Cin=0 | Sum=00010001 Cout=1
-A=191 B= 82 Cin=1 | Sum=00010010 Cout=1
-A=191 B= 83 Cin=0 | Sum=00010010 Cout=1
-A=191 B= 83 Cin=1 | Sum=00010011 Cout=1
-A=191 B= 84 Cin=0 | Sum=00010011 Cout=1
-A=191 B= 84 Cin=1 | Sum=00010000 Cout=1
-A=191 B= 85 Cin=0 | Sum=00010100 Cout=1
-A=191 B= 85 Cin=1 | Sum=00010101 Cout=1
-A=191 B= 86 Cin=0 | Sum=00010101 Cout=1
-A=191 B= 86 Cin=1 | Sum=00010110 Cout=1
-A=191 B= 87 Cin=0 | Sum=00010110 Cout=1
-A=191 B= 87 Cin=1 | Sum=00010111 Cout=1
-A=191 B= 88 Cin=0 | Sum=00010111 Cout=1
-A=191 B= 88 Cin=1 | Sum=00011100 Cout=1
-A=191 B= 89 Cin=0 | Sum=00011000 Cout=1
-A=191 B= 89 Cin=1 | Sum=00011001 Cout=1
-A=191 B= 90 Cin=0 | Sum=00011001 Cout=1
-A=191 B= 90 Cin=1 | Sum=00011010 Cout=1
-A=191 B= 91 Cin=0 | Sum=00011010 Cout=1
-A=191 B= 91 Cin=1 | Sum=00011011 Cout=1
-A=191 B= 92 Cin=0 | Sum=00011011 Cout=1
-A=191 B= 92 Cin=1 | Sum=00011000 Cout=1
-A=191 B= 93 Cin=0 | Sum=00011100 Cout=1
-A=191 B= 93 Cin=1 | Sum=00011101 Cout=1
-A=191 B= 94 Cin=0 | Sum=00011101 Cout=1
-A=191 B= 94 Cin=1 | Sum=00011110 Cout=1
-A=191 B= 95 Cin=0 | Sum=00011110 Cout=1
-A=191 B= 95 Cin=1 | Sum=00011111 Cout=1
-A=191 B= 96 Cin=0 | Sum=00011111 Cout=1
-A=191 B= 96 Cin=1 | Sum=00110100 Cout=1
-A=191 B= 97 Cin=0 | Sum=00100000 Cout=1
-A=191 B= 97 Cin=1 | Sum=00100001 Cout=1
-A=191 B= 98 Cin=0 | Sum=00100001 Cout=1
-A=191 B= 98 Cin=1 | Sum=00100010 Cout=1
-A=191 B= 99 Cin=0 | Sum=00100010 Cout=1
-A=191 B= 99 Cin=1 | Sum=00100011 Cout=1
-A=191 B=100 Cin=0 | Sum=00100011 Cout=1
-A=191 B=100 Cin=1 | Sum=00100000 Cout=1
-A=191 B=101 Cin=0 | Sum=00100100 Cout=1
-A=191 B=101 Cin=1 | Sum=00100101 Cout=1
-A=191 B=102 Cin=0 | Sum=00100101 Cout=1
-A=191 B=102 Cin=1 | Sum=00100110 Cout=1
-A=191 B=103 Cin=0 | Sum=00100110 Cout=1
-A=191 B=103 Cin=1 | Sum=00100111 Cout=1
-A=191 B=104 Cin=0 | Sum=00100111 Cout=1
-A=191 B=104 Cin=1 | Sum=00101100 Cout=1
-A=191 B=105 Cin=0 | Sum=00101000 Cout=1
-A=191 B=105 Cin=1 | Sum=00101001 Cout=1
-A=191 B=106 Cin=0 | Sum=00101001 Cout=1
-A=191 B=106 Cin=1 | Sum=00101010 Cout=1
-A=191 B=107 Cin=0 | Sum=00101010 Cout=1
-A=191 B=107 Cin=1 | Sum=00101011 Cout=1
-A=191 B=108 Cin=0 | Sum=00101011 Cout=1
-A=191 B=108 Cin=1 | Sum=00101000 Cout=1
-A=191 B=109 Cin=0 | Sum=00101100 Cout=1
-A=191 B=109 Cin=1 | Sum=00101101 Cout=1
-A=191 B=110 Cin=0 | Sum=00101101 Cout=1
-A=191 B=110 Cin=1 | Sum=00101110 Cout=1
-A=191 B=111 Cin=0 | Sum=00101110 Cout=1
-A=191 B=111 Cin=1 | Sum=00101111 Cout=1
-A=191 B=112 Cin=0 | Sum=00101111 Cout=1
-A=191 B=112 Cin=1 | Sum=00100100 Cout=1
-A=191 B=113 Cin=0 | Sum=00110000 Cout=1
-A=191 B=113 Cin=1 | Sum=00110001 Cout=1
-A=191 B=114 Cin=0 | Sum=00110001 Cout=1
-A=191 B=114 Cin=1 | Sum=00110010 Cout=1
-A=191 B=115 Cin=0 | Sum=00110010 Cout=1
-A=191 B=115 Cin=1 | Sum=00110011 Cout=1
-A=191 B=116 Cin=0 | Sum=00110011 Cout=1
-A=191 B=116 Cin=1 | Sum=00110000 Cout=1
-A=191 B=117 Cin=0 | Sum=00110100 Cout=1
-A=191 B=117 Cin=1 | Sum=00110101 Cout=1
-A=191 B=118 Cin=0 | Sum=00110101 Cout=1
-A=191 B=118 Cin=1 | Sum=00110110 Cout=1
-A=191 B=119 Cin=0 | Sum=00110110 Cout=1
-A=191 B=119 Cin=1 | Sum=00110111 Cout=1
-A=191 B=120 Cin=0 | Sum=00110111 Cout=1
-A=191 B=120 Cin=1 | Sum=00111100 Cout=1
-A=191 B=121 Cin=0 | Sum=00111000 Cout=1
-A=191 B=121 Cin=1 | Sum=00111001 Cout=1
-A=191 B=122 Cin=0 | Sum=00111001 Cout=1
-A=191 B=122 Cin=1 | Sum=00111010 Cout=1
-A=191 B=123 Cin=0 | Sum=00111010 Cout=1
-A=191 B=123 Cin=1 | Sum=00111011 Cout=1
-A=191 B=124 Cin=0 | Sum=00111011 Cout=1
-A=191 B=124 Cin=1 | Sum=00111000 Cout=1
-A=191 B=125 Cin=0 | Sum=00111100 Cout=1
-A=191 B=125 Cin=1 | Sum=00111101 Cout=1
-A=191 B=126 Cin=0 | Sum=00111101 Cout=1
-A=191 B=126 Cin=1 | Sum=00111110 Cout=1
-A=191 B=127 Cin=0 | Sum=00111110 Cout=1
-A=191 B=127 Cin=1 | Sum=00111111 Cout=1
-A=191 B=128 Cin=0 | Sum=00111111 Cout=1
-A=191 B=128 Cin=1 | Sum=00010100 Cout=1
-A=191 B=129 Cin=0 | Sum=01000000 Cout=1
-A=191 B=129 Cin=1 | Sum=01000001 Cout=1
-A=191 B=130 Cin=0 | Sum=01000001 Cout=1
-A=191 B=130 Cin=1 | Sum=01000010 Cout=1
-A=191 B=131 Cin=0 | Sum=01000010 Cout=1
-A=191 B=131 Cin=1 | Sum=01000011 Cout=1
-A=191 B=132 Cin=0 | Sum=01000011 Cout=1
-A=191 B=132 Cin=1 | Sum=01000000 Cout=1
-A=191 B=133 Cin=0 | Sum=01000100 Cout=1
-A=191 B=133 Cin=1 | Sum=01000101 Cout=1
-A=191 B=134 Cin=0 | Sum=01000101 Cout=1
-A=191 B=134 Cin=1 | Sum=01000110 Cout=1
-A=191 B=135 Cin=0 | Sum=01000110 Cout=1
-A=191 B=135 Cin=1 | Sum=01000111 Cout=1
-A=191 B=136 Cin=0 | Sum=01000111 Cout=1
-A=191 B=136 Cin=1 | Sum=01001100 Cout=1
-A=191 B=137 Cin=0 | Sum=01001000 Cout=1
-A=191 B=137 Cin=1 | Sum=01001001 Cout=1
-A=191 B=138 Cin=0 | Sum=01001001 Cout=1
-A=191 B=138 Cin=1 | Sum=01001010 Cout=1
-A=191 B=139 Cin=0 | Sum=01001010 Cout=1
-A=191 B=139 Cin=1 | Sum=01001011 Cout=1
-A=191 B=140 Cin=0 | Sum=01001011 Cout=1
-A=191 B=140 Cin=1 | Sum=01001000 Cout=1
-A=191 B=141 Cin=0 | Sum=01001100 Cout=1
-A=191 B=141 Cin=1 | Sum=01001101 Cout=1
-A=191 B=142 Cin=0 | Sum=01001101 Cout=1
-A=191 B=142 Cin=1 | Sum=01001110 Cout=1
-A=191 B=143 Cin=0 | Sum=01001110 Cout=1
-A=191 B=143 Cin=1 | Sum=01001111 Cout=1
-A=191 B=144 Cin=0 | Sum=01001111 Cout=1
-A=191 B=144 Cin=1 | Sum=01000100 Cout=1
-A=191 B=145 Cin=0 | Sum=01010000 Cout=1
-A=191 B=145 Cin=1 | Sum=01010001 Cout=1
-A=191 B=146 Cin=0 | Sum=01010001 Cout=1
-A=191 B=146 Cin=1 | Sum=01010010 Cout=1
-A=191 B=147 Cin=0 | Sum=01010010 Cout=1
-A=191 B=147 Cin=1 | Sum=01010011 Cout=1
-A=191 B=148 Cin=0 | Sum=01010011 Cout=1
-A=191 B=148 Cin=1 | Sum=01010000 Cout=1
-A=191 B=149 Cin=0 | Sum=01010100 Cout=1
-A=191 B=149 Cin=1 | Sum=01010101 Cout=1
-A=191 B=150 Cin=0 | Sum=01010101 Cout=1
-A=191 B=150 Cin=1 | Sum=01010110 Cout=1
-A=191 B=151 Cin=0 | Sum=01010110 Cout=1
-A=191 B=151 Cin=1 | Sum=01010111 Cout=1
-A=191 B=152 Cin=0 | Sum=01010111 Cout=1
-A=191 B=152 Cin=1 | Sum=01011100 Cout=1
-A=191 B=153 Cin=0 | Sum=01011000 Cout=1
-A=191 B=153 Cin=1 | Sum=01011001 Cout=1
-A=191 B=154 Cin=0 | Sum=01011001 Cout=1
-A=191 B=154 Cin=1 | Sum=01011010 Cout=1
-A=191 B=155 Cin=0 | Sum=01011010 Cout=1
-A=191 B=155 Cin=1 | Sum=01011011 Cout=1
-A=191 B=156 Cin=0 | Sum=01011011 Cout=1
-A=191 B=156 Cin=1 | Sum=01011000 Cout=1
-A=191 B=157 Cin=0 | Sum=01011100 Cout=1
-A=191 B=157 Cin=1 | Sum=01011101 Cout=1
-A=191 B=158 Cin=0 | Sum=01011101 Cout=1
-A=191 B=158 Cin=1 | Sum=01011110 Cout=1
-A=191 B=159 Cin=0 | Sum=01011110 Cout=1
-A=191 B=159 Cin=1 | Sum=01011111 Cout=1
-A=191 B=160 Cin=0 | Sum=01011111 Cout=1
-A=191 B=160 Cin=1 | Sum=01110100 Cout=1
-A=191 B=161 Cin=0 | Sum=01100000 Cout=1
-A=191 B=161 Cin=1 | Sum=01100001 Cout=1
-A=191 B=162 Cin=0 | Sum=01100001 Cout=1
-A=191 B=162 Cin=1 | Sum=01100010 Cout=1
-A=191 B=163 Cin=0 | Sum=01100010 Cout=1
-A=191 B=163 Cin=1 | Sum=01100011 Cout=1
-A=191 B=164 Cin=0 | Sum=01100011 Cout=1
-A=191 B=164 Cin=1 | Sum=01100000 Cout=1
-A=191 B=165 Cin=0 | Sum=01100100 Cout=1
-A=191 B=165 Cin=1 | Sum=01100101 Cout=1
-A=191 B=166 Cin=0 | Sum=01100101 Cout=1
-A=191 B=166 Cin=1 | Sum=01100110 Cout=1
-A=191 B=167 Cin=0 | Sum=01100110 Cout=1
-A=191 B=167 Cin=1 | Sum=01100111 Cout=1
-A=191 B=168 Cin=0 | Sum=01100111 Cout=1
-A=191 B=168 Cin=1 | Sum=01101100 Cout=1
-A=191 B=169 Cin=0 | Sum=01101000 Cout=1
-A=191 B=169 Cin=1 | Sum=01101001 Cout=1
-A=191 B=170 Cin=0 | Sum=01101001 Cout=1
-A=191 B=170 Cin=1 | Sum=01101010 Cout=1
-A=191 B=171 Cin=0 | Sum=01101010 Cout=1
-A=191 B=171 Cin=1 | Sum=01101011 Cout=1
-A=191 B=172 Cin=0 | Sum=01101011 Cout=1
-A=191 B=172 Cin=1 | Sum=01101000 Cout=1
-A=191 B=173 Cin=0 | Sum=01101100 Cout=1
-A=191 B=173 Cin=1 | Sum=01101101 Cout=1
-A=191 B=174 Cin=0 | Sum=01101101 Cout=1
-A=191 B=174 Cin=1 | Sum=01101110 Cout=1
-A=191 B=175 Cin=0 | Sum=01101110 Cout=1
-A=191 B=175 Cin=1 | Sum=01101111 Cout=1
-A=191 B=176 Cin=0 | Sum=01101111 Cout=1
-A=191 B=176 Cin=1 | Sum=01100100 Cout=1
-A=191 B=177 Cin=0 | Sum=01110000 Cout=1
-A=191 B=177 Cin=1 | Sum=01110001 Cout=1
-A=191 B=178 Cin=0 | Sum=01110001 Cout=1
-A=191 B=178 Cin=1 | Sum=01110010 Cout=1
-A=191 B=179 Cin=0 | Sum=01110010 Cout=1
-A=191 B=179 Cin=1 | Sum=01110011 Cout=1
-A=191 B=180 Cin=0 | Sum=01110011 Cout=1
-A=191 B=180 Cin=1 | Sum=01110000 Cout=1
-A=191 B=181 Cin=0 | Sum=01110100 Cout=1
-A=191 B=181 Cin=1 | Sum=01110101 Cout=1
-A=191 B=182 Cin=0 | Sum=01110101 Cout=1
-A=191 B=182 Cin=1 | Sum=01110110 Cout=1
-A=191 B=183 Cin=0 | Sum=01110110 Cout=1
-A=191 B=183 Cin=1 | Sum=01110111 Cout=1
-A=191 B=184 Cin=0 | Sum=01110111 Cout=1
-A=191 B=184 Cin=1 | Sum=01111100 Cout=1
-A=191 B=185 Cin=0 | Sum=01111000 Cout=1
-A=191 B=185 Cin=1 | Sum=01111001 Cout=1
-A=191 B=186 Cin=0 | Sum=01111001 Cout=1
-A=191 B=186 Cin=1 | Sum=01111010 Cout=1
-A=191 B=187 Cin=0 | Sum=01111010 Cout=1
-A=191 B=187 Cin=1 | Sum=01111011 Cout=1
-A=191 B=188 Cin=0 | Sum=01111011 Cout=1
-A=191 B=188 Cin=1 | Sum=01111000 Cout=1
-A=191 B=189 Cin=0 | Sum=01111100 Cout=1
-A=191 B=189 Cin=1 | Sum=01111101 Cout=1
-A=191 B=190 Cin=0 | Sum=01111101 Cout=1
-A=191 B=190 Cin=1 | Sum=01111110 Cout=1
-A=191 B=191 Cin=0 | Sum=01111110 Cout=1
-A=191 B=191 Cin=1 | Sum=01111111 Cout=1
-A=191 B=192 Cin=0 | Sum=01111111 Cout=1
-A=191 B=192 Cin=1 | Sum=11010100 Cout=1
-A=191 B=193 Cin=0 | Sum=10000000 Cout=1
-A=191 B=193 Cin=1 | Sum=10000001 Cout=1
-A=191 B=194 Cin=0 | Sum=10000001 Cout=1
-A=191 B=194 Cin=1 | Sum=10000010 Cout=1
-A=191 B=195 Cin=0 | Sum=10000010 Cout=1
-A=191 B=195 Cin=1 | Sum=10000011 Cout=1
-A=191 B=196 Cin=0 | Sum=10000011 Cout=1
-A=191 B=196 Cin=1 | Sum=10000000 Cout=1
-A=191 B=197 Cin=0 | Sum=10000100 Cout=1
-A=191 B=197 Cin=1 | Sum=10000101 Cout=1
-A=191 B=198 Cin=0 | Sum=10000101 Cout=1
-A=191 B=198 Cin=1 | Sum=10000110 Cout=1
-A=191 B=199 Cin=0 | Sum=10000110 Cout=1
-A=191 B=199 Cin=1 | Sum=10000111 Cout=1
-A=191 B=200 Cin=0 | Sum=10000111 Cout=1
-A=191 B=200 Cin=1 | Sum=10001100 Cout=1
-A=191 B=201 Cin=0 | Sum=10001000 Cout=1
-A=191 B=201 Cin=1 | Sum=10001001 Cout=1
-A=191 B=202 Cin=0 | Sum=10001001 Cout=1
-A=191 B=202 Cin=1 | Sum=10001010 Cout=1
-A=191 B=203 Cin=0 | Sum=10001010 Cout=1
-A=191 B=203 Cin=1 | Sum=10001011 Cout=1
-A=191 B=204 Cin=0 | Sum=10001011 Cout=1
-A=191 B=204 Cin=1 | Sum=10001000 Cout=1
-A=191 B=205 Cin=0 | Sum=10001100 Cout=1
-A=191 B=205 Cin=1 | Sum=10001101 Cout=1
-A=191 B=206 Cin=0 | Sum=10001101 Cout=1
-A=191 B=206 Cin=1 | Sum=10001110 Cout=1
-A=191 B=207 Cin=0 | Sum=10001110 Cout=1
-A=191 B=207 Cin=1 | Sum=10001111 Cout=1
-A=191 B=208 Cin=0 | Sum=10001111 Cout=1
-A=191 B=208 Cin=1 | Sum=10000100 Cout=1
-A=191 B=209 Cin=0 | Sum=10010000 Cout=1
-A=191 B=209 Cin=1 | Sum=10010001 Cout=1
-A=191 B=210 Cin=0 | Sum=10010001 Cout=1
-A=191 B=210 Cin=1 | Sum=10010010 Cout=1
-A=191 B=211 Cin=0 | Sum=10010010 Cout=1
-A=191 B=211 Cin=1 | Sum=10010011 Cout=1
-A=191 B=212 Cin=0 | Sum=10010011 Cout=1
-A=191 B=212 Cin=1 | Sum=10010000 Cout=1
-A=191 B=213 Cin=0 | Sum=10010100 Cout=1
-A=191 B=213 Cin=1 | Sum=10010101 Cout=1
-A=191 B=214 Cin=0 | Sum=10010101 Cout=1
-A=191 B=214 Cin=1 | Sum=10010110 Cout=1
-A=191 B=215 Cin=0 | Sum=10010110 Cout=1
-A=191 B=215 Cin=1 | Sum=10010111 Cout=1
-A=191 B=216 Cin=0 | Sum=10010111 Cout=1
-A=191 B=216 Cin=1 | Sum=10011100 Cout=1
-A=191 B=217 Cin=0 | Sum=10011000 Cout=1
-A=191 B=217 Cin=1 | Sum=10011001 Cout=1
-A=191 B=218 Cin=0 | Sum=10011001 Cout=1
-A=191 B=218 Cin=1 | Sum=10011010 Cout=1
-A=191 B=219 Cin=0 | Sum=10011010 Cout=1
-A=191 B=219 Cin=1 | Sum=10011011 Cout=1
-A=191 B=220 Cin=0 | Sum=10011011 Cout=1
-A=191 B=220 Cin=1 | Sum=10011000 Cout=1
-A=191 B=221 Cin=0 | Sum=10011100 Cout=1
-A=191 B=221 Cin=1 | Sum=10011101 Cout=1
-A=191 B=222 Cin=0 | Sum=10011101 Cout=1
-A=191 B=222 Cin=1 | Sum=10011110 Cout=1
-A=191 B=223 Cin=0 | Sum=10011110 Cout=1
-A=191 B=223 Cin=1 | Sum=10011111 Cout=1
-A=191 B=224 Cin=0 | Sum=10011111 Cout=1
-A=191 B=224 Cin=1 | Sum=10110100 Cout=1
-A=191 B=225 Cin=0 | Sum=10100000 Cout=1
-A=191 B=225 Cin=1 | Sum=10100001 Cout=1
-A=191 B=226 Cin=0 | Sum=10100001 Cout=1
-A=191 B=226 Cin=1 | Sum=10100010 Cout=1
-A=191 B=227 Cin=0 | Sum=10100010 Cout=1
-A=191 B=227 Cin=1 | Sum=10100011 Cout=1
-A=191 B=228 Cin=0 | Sum=10100011 Cout=1
-A=191 B=228 Cin=1 | Sum=10100000 Cout=1
-A=191 B=229 Cin=0 | Sum=10100100 Cout=1
-A=191 B=229 Cin=1 | Sum=10100101 Cout=1
-A=191 B=230 Cin=0 | Sum=10100101 Cout=1
-A=191 B=230 Cin=1 | Sum=10100110 Cout=1
-A=191 B=231 Cin=0 | Sum=10100110 Cout=1
-A=191 B=231 Cin=1 | Sum=10100111 Cout=1
-A=191 B=232 Cin=0 | Sum=10100111 Cout=1
-A=191 B=232 Cin=1 | Sum=10101100 Cout=1
-A=191 B=233 Cin=0 | Sum=10101000 Cout=1
-A=191 B=233 Cin=1 | Sum=10101001 Cout=1
-A=191 B=234 Cin=0 | Sum=10101001 Cout=1
-A=191 B=234 Cin=1 | Sum=10101010 Cout=1
-A=191 B=235 Cin=0 | Sum=10101010 Cout=1
-A=191 B=235 Cin=1 | Sum=10101011 Cout=1
-A=191 B=236 Cin=0 | Sum=10101011 Cout=1
-A=191 B=236 Cin=1 | Sum=10101000 Cout=1
-A=191 B=237 Cin=0 | Sum=10101100 Cout=1
-A=191 B=237 Cin=1 | Sum=10101101 Cout=1
-A=191 B=238 Cin=0 | Sum=10101101 Cout=1
-A=191 B=238 Cin=1 | Sum=10101110 Cout=1
-A=191 B=239 Cin=0 | Sum=10101110 Cout=1
-A=191 B=239 Cin=1 | Sum=10101111 Cout=1
-A=191 B=240 Cin=0 | Sum=10101111 Cout=1
-A=191 B=240 Cin=1 | Sum=10100100 Cout=1
-A=191 B=241 Cin=0 | Sum=10110000 Cout=1
-A=191 B=241 Cin=1 | Sum=10110001 Cout=1
-A=191 B=242 Cin=0 | Sum=10110001 Cout=1
-A=191 B=242 Cin=1 | Sum=10110010 Cout=1
-A=191 B=243 Cin=0 | Sum=10110010 Cout=1
-A=191 B=243 Cin=1 | Sum=10110011 Cout=1
-A=191 B=244 Cin=0 | Sum=10110011 Cout=1
-A=191 B=244 Cin=1 | Sum=10110000 Cout=1
-A=191 B=245 Cin=0 | Sum=10110100 Cout=1
-A=191 B=245 Cin=1 | Sum=10110101 Cout=1
-A=191 B=246 Cin=0 | Sum=10110101 Cout=1
-A=191 B=246 Cin=1 | Sum=10110110 Cout=1
-A=191 B=247 Cin=0 | Sum=10110110 Cout=1
-A=191 B=247 Cin=1 | Sum=10110111 Cout=1
-A=191 B=248 Cin=0 | Sum=10110111 Cout=1
-A=191 B=248 Cin=1 | Sum=10111100 Cout=1
-A=191 B=249 Cin=0 | Sum=10111000 Cout=1
-A=191 B=249 Cin=1 | Sum=10111001 Cout=1
-A=191 B=250 Cin=0 | Sum=10111001 Cout=1
-A=191 B=250 Cin=1 | Sum=10111010 Cout=1
-A=191 B=251 Cin=0 | Sum=10111010 Cout=1
-A=191 B=251 Cin=1 | Sum=10111011 Cout=1
-A=191 B=252 Cin=0 | Sum=10111011 Cout=1
-A=191 B=252 Cin=1 | Sum=10111000 Cout=1
-A=191 B=253 Cin=0 | Sum=10111100 Cout=1
-A=191 B=253 Cin=1 | Sum=10111101 Cout=1
-A=191 B=254 Cin=0 | Sum=10111101 Cout=1
-A=191 B=254 Cin=1 | Sum=10111110 Cout=1
-A=191 B=255 Cin=0 | Sum=10111110 Cout=1
-A=191 B=255 Cin=1 | Sum=10111111 Cout=1
-A=192 B= 40 Cin=0 | Sum=11101000 Cout=0
-A=192 B= 40 Cin=1 | Sum=11101001 Cout=0
-A=192 B= 41 Cin=0 | Sum=11101001 Cout=0
-A=192 B= 41 Cin=1 | Sum=11101010 Cout=0
-A=192 B= 42 Cin=0 | Sum=11101010 Cout=0
-A=192 B= 42 Cin=1 | Sum=11101011 Cout=0
-A=192 B= 43 Cin=0 | Sum=11101011 Cout=0
-A=192 B= 43 Cin=1 | Sum=11101000 Cout=0
-A=192 B= 44 Cin=0 | Sum=11101100 Cout=0
-A=192 B= 44 Cin=1 | Sum=11101101 Cout=0
-A=192 B= 45 Cin=0 | Sum=11101101 Cout=0
-A=192 B= 45 Cin=1 | Sum=11101110 Cout=0
-A=192 B= 46 Cin=0 | Sum=11101110 Cout=0
-A=192 B= 46 Cin=1 | Sum=11101111 Cout=0
-A=192 B= 47 Cin=0 | Sum=11101111 Cout=0
-A=192 B= 47 Cin=1 | Sum=11100100 Cout=0
-A=192 B= 48 Cin=0 | Sum=11110000 Cout=0
-A=192 B= 48 Cin=1 | Sum=11110001 Cout=0
-A=192 B= 49 Cin=0 | Sum=11110001 Cout=0
-A=192 B= 49 Cin=1 | Sum=11110010 Cout=0
-A=192 B= 50 Cin=0 | Sum=11110010 Cout=0
-A=192 B= 50 Cin=1 | Sum=11110011 Cout=0
-A=192 B= 51 Cin=0 | Sum=11110011 Cout=0
-A=192 B= 51 Cin=1 | Sum=11110000 Cout=0
-A=192 B= 52 Cin=0 | Sum=11110100 Cout=0
-A=192 B= 52 Cin=1 | Sum=11110101 Cout=0
-A=192 B= 53 Cin=0 | Sum=11110101 Cout=0
-A=192 B= 53 Cin=1 | Sum=11110110 Cout=0
-A=192 B= 54 Cin=0 | Sum=11110110 Cout=0
-A=192 B= 54 Cin=1 | Sum=11110111 Cout=0
-A=192 B= 55 Cin=0 | Sum=11110111 Cout=0
-A=192 B= 55 Cin=1 | Sum=11111100 Cout=0
-A=192 B= 56 Cin=0 | Sum=11111000 Cout=0
-A=192 B= 56 Cin=1 | Sum=11111001 Cout=0
-A=192 B= 57 Cin=0 | Sum=11111001 Cout=0
-A=192 B= 57 Cin=1 | Sum=11111010 Cout=0
-A=192 B= 58 Cin=0 | Sum=11111010 Cout=0
-A=192 B= 58 Cin=1 | Sum=11111011 Cout=0
-A=192 B= 59 Cin=0 | Sum=11111011 Cout=0
-A=192 B= 59 Cin=1 | Sum=11111000 Cout=0
-A=192 B= 60 Cin=0 | Sum=11111100 Cout=0
-A=192 B= 60 Cin=1 | Sum=11111101 Cout=0
-A=192 B= 61 Cin=0 | Sum=11111101 Cout=0
-A=192 B= 61 Cin=1 | Sum=11111110 Cout=0
-A=192 B= 62 Cin=0 | Sum=11111110 Cout=0
-A=192 B= 62 Cin=1 | Sum=11111111 Cout=0
-A=192 B= 63 Cin=0 | Sum=11111111 Cout=0
-A=192 B= 63 Cin=1 | Sum=01010100 Cout=0
-A=192 B= 64 Cin=0 | Sum=00000000 Cout=1
-A=192 B= 64 Cin=1 | Sum=00000001 Cout=1
-A=192 B= 65 Cin=0 | Sum=00000001 Cout=1
-A=192 B= 65 Cin=1 | Sum=00000010 Cout=1
-A=192 B= 66 Cin=0 | Sum=00000010 Cout=1
-A=192 B= 66 Cin=1 | Sum=00000011 Cout=1
-A=192 B= 67 Cin=0 | Sum=00000011 Cout=1
-A=192 B= 67 Cin=1 | Sum=00000000 Cout=1
-A=192 B= 68 Cin=0 | Sum=00000100 Cout=1
+A=190 B= 40 Cin=0 | Sum=230 Cout=1
+A=190 B= 40 Cin=1 | Sum=231 Cout=1
+A=190 B= 41 Cin=0 | Sum=231 Cout=1
+A=190 B= 41 Cin=1 | Sum=236 Cout=1
+A=190 B= 42 Cin=0 | Sum=232 Cout=1
+A=190 B= 42 Cin=1 | Sum=233 Cout=1
+A=190 B= 43 Cin=0 | Sum=233 Cout=1
+A=190 B= 43 Cin=1 | Sum=234 Cout=1
+A=190 B= 44 Cin=0 | Sum=234 Cout=1
+A=190 B= 44 Cin=1 | Sum=235 Cout=1
+A=190 B= 45 Cin=0 | Sum=235 Cout=1
+A=190 B= 45 Cin=1 | Sum=232 Cout=1
+A=190 B= 46 Cin=0 | Sum=236 Cout=1
+A=190 B= 46 Cin=1 | Sum=237 Cout=1
+A=190 B= 47 Cin=0 | Sum=237 Cout=1
+A=190 B= 47 Cin=1 | Sum=238 Cout=1
+A=190 B= 48 Cin=0 | Sum=238 Cout=1
+A=190 B= 48 Cin=1 | Sum=239 Cout=1
+A=190 B= 49 Cin=0 | Sum=239 Cout=1
+A=190 B= 49 Cin=1 | Sum=228 Cout=1
+A=190 B= 50 Cin=0 | Sum=240 Cout=1
+A=190 B= 50 Cin=1 | Sum=241 Cout=1
+A=190 B= 51 Cin=0 | Sum=241 Cout=1
+A=190 B= 51 Cin=1 | Sum=242 Cout=1
+A=190 B= 52 Cin=0 | Sum=242 Cout=1
+A=190 B= 52 Cin=1 | Sum=243 Cout=1
+A=190 B= 53 Cin=0 | Sum=243 Cout=1
+A=190 B= 53 Cin=1 | Sum=240 Cout=1
+A=190 B= 54 Cin=0 | Sum=244 Cout=1
+A=190 B= 54 Cin=1 | Sum=245 Cout=1
+A=190 B= 55 Cin=0 | Sum=245 Cout=1
+A=190 B= 55 Cin=1 | Sum=246 Cout=1
+A=190 B= 56 Cin=0 | Sum=246 Cout=1
+A=190 B= 56 Cin=1 | Sum=247 Cout=1
+A=190 B= 57 Cin=0 | Sum=247 Cout=1
+A=190 B= 57 Cin=1 | Sum=252 Cout=1
+A=190 B= 58 Cin=0 | Sum=248 Cout=1
+A=190 B= 58 Cin=1 | Sum=249 Cout=1
+A=190 B= 59 Cin=0 | Sum=249 Cout=1
+A=190 B= 59 Cin=1 | Sum=250 Cout=1
+A=190 B= 60 Cin=0 | Sum=250 Cout=1
+A=190 B= 60 Cin=1 | Sum=251 Cout=1
+A=190 B= 61 Cin=0 | Sum=251 Cout=1
+A=190 B= 61 Cin=1 | Sum=248 Cout=1
+A=190 B= 62 Cin=0 | Sum=252 Cout=1
+A=190 B= 62 Cin=1 | Sum=253 Cout=1
+A=190 B= 63 Cin=0 | Sum=253 Cout=1
+A=190 B= 63 Cin=1 | Sum=254 Cout=1
+A=190 B= 64 Cin=0 | Sum=254 Cout=0
+A=190 B= 64 Cin=1 | Sum=255 Cout=0
+A=190 B= 65 Cin=0 | Sum=255 Cout=0
+A=190 B= 65 Cin=1 | Sum= 84 Cout=0
+A=190 B= 66 Cin=0 | Sum=  0 Cout=1
+A=190 B= 66 Cin=1 | Sum=  1 Cout=1
+A=190 B= 67 Cin=0 | Sum=  1 Cout=1
+A=190 B= 67 Cin=1 | Sum=  2 Cout=1
+A=190 B= 68 Cin=0 | Sum=  2 Cout=1
+A=190 B= 68 Cin=1 | Sum=  3 Cout=1
+A=190 B= 69 Cin=0 | Sum=  3 Cout=1
+A=190 B= 69 Cin=1 | Sum=  0 Cout=1
+A=190 B= 70 Cin=0 | Sum=  4 Cout=1
+A=190 B= 70 Cin=1 | Sum=  5 Cout=1
+A=190 B= 71 Cin=0 | Sum=  5 Cout=1
+A=190 B= 71 Cin=1 | Sum=  6 Cout=1
+A=190 B= 72 Cin=0 | Sum=  6 Cout=1
+A=190 B= 72 Cin=1 | Sum=  7 Cout=1
+A=190 B= 73 Cin=0 | Sum=  7 Cout=1
+A=190 B= 73 Cin=1 | Sum= 12 Cout=1
+A=190 B= 74 Cin=0 | Sum=  8 Cout=1
+A=190 B= 74 Cin=1 | Sum=  9 Cout=1
+A=190 B= 75 Cin=0 | Sum=  9 Cout=1
+A=190 B= 75 Cin=1 | Sum= 10 Cout=1
+A=190 B= 76 Cin=0 | Sum= 10 Cout=1
+A=190 B= 76 Cin=1 | Sum= 11 Cout=1
+A=190 B= 77 Cin=0 | Sum= 11 Cout=1
+A=190 B= 77 Cin=1 | Sum=  8 Cout=1
+A=190 B= 78 Cin=0 | Sum= 12 Cout=1
+A=190 B= 78 Cin=1 | Sum= 13 Cout=1
+A=190 B= 79 Cin=0 | Sum= 13 Cout=1
+A=190 B= 79 Cin=1 | Sum= 14 Cout=1
+A=190 B= 80 Cin=0 | Sum= 14 Cout=1
+A=190 B= 80 Cin=1 | Sum= 15 Cout=1
+A=190 B= 81 Cin=0 | Sum= 15 Cout=1
+A=190 B= 81 Cin=1 | Sum=  4 Cout=1
+A=190 B= 82 Cin=0 | Sum= 16 Cout=1
+A=190 B= 82 Cin=1 | Sum= 17 Cout=1
+A=190 B= 83 Cin=0 | Sum= 17 Cout=1
+A=190 B= 83 Cin=1 | Sum= 18 Cout=1
+A=190 B= 84 Cin=0 | Sum= 18 Cout=1
+A=190 B= 84 Cin=1 | Sum= 19 Cout=1
+A=190 B= 85 Cin=0 | Sum= 19 Cout=1
+A=190 B= 85 Cin=1 | Sum= 16 Cout=1
+A=190 B= 86 Cin=0 | Sum= 20 Cout=1
+A=190 B= 86 Cin=1 | Sum= 21 Cout=1
+A=190 B= 87 Cin=0 | Sum= 21 Cout=1
+A=190 B= 87 Cin=1 | Sum= 22 Cout=1
+A=190 B= 88 Cin=0 | Sum= 22 Cout=1
+A=190 B= 88 Cin=1 | Sum= 23 Cout=1
+A=190 B= 89 Cin=0 | Sum= 23 Cout=1
+A=190 B= 89 Cin=1 | Sum= 28 Cout=1
+A=190 B= 90 Cin=0 | Sum= 24 Cout=1
+A=190 B= 90 Cin=1 | Sum= 25 Cout=1
+A=190 B= 91 Cin=0 | Sum= 25 Cout=1
+A=190 B= 91 Cin=1 | Sum= 26 Cout=1
+A=190 B= 92 Cin=0 | Sum= 26 Cout=1
+A=190 B= 92 Cin=1 | Sum= 27 Cout=1
+A=190 B= 93 Cin=0 | Sum= 27 Cout=1
+A=190 B= 93 Cin=1 | Sum= 24 Cout=1
+A=190 B= 94 Cin=0 | Sum= 28 Cout=1
+A=190 B= 94 Cin=1 | Sum= 29 Cout=1
+A=190 B= 95 Cin=0 | Sum= 29 Cout=1
+A=190 B= 95 Cin=1 | Sum= 30 Cout=1
+A=190 B= 96 Cin=0 | Sum= 30 Cout=1
+A=190 B= 96 Cin=1 | Sum= 31 Cout=1
+A=190 B= 97 Cin=0 | Sum= 31 Cout=1
+A=190 B= 97 Cin=1 | Sum= 52 Cout=1
+A=190 B= 98 Cin=0 | Sum= 32 Cout=1
+A=190 B= 98 Cin=1 | Sum= 33 Cout=1
+A=190 B= 99 Cin=0 | Sum= 33 Cout=1
+A=190 B= 99 Cin=1 | Sum= 34 Cout=1
+A=190 B=100 Cin=0 | Sum= 34 Cout=1
+A=190 B=100 Cin=1 | Sum= 35 Cout=1
+A=190 B=101 Cin=0 | Sum= 35 Cout=1
+A=190 B=101 Cin=1 | Sum= 32 Cout=1
+A=190 B=102 Cin=0 | Sum= 36 Cout=1
+A=190 B=102 Cin=1 | Sum= 37 Cout=1
+A=190 B=103 Cin=0 | Sum= 37 Cout=1
+A=190 B=103 Cin=1 | Sum= 38 Cout=1
+A=190 B=104 Cin=0 | Sum= 38 Cout=1
+A=190 B=104 Cin=1 | Sum= 39 Cout=1
+A=190 B=105 Cin=0 | Sum= 39 Cout=1
+A=190 B=105 Cin=1 | Sum= 44 Cout=1
+A=190 B=106 Cin=0 | Sum= 40 Cout=1
+A=190 B=106 Cin=1 | Sum= 41 Cout=1
+A=190 B=107 Cin=0 | Sum= 41 Cout=1
+A=190 B=107 Cin=1 | Sum= 42 Cout=1
+A=190 B=108 Cin=0 | Sum= 42 Cout=1
+A=190 B=108 Cin=1 | Sum= 43 Cout=1
+A=190 B=109 Cin=0 | Sum= 43 Cout=1
+A=190 B=109 Cin=1 | Sum= 40 Cout=1
+A=190 B=110 Cin=0 | Sum= 44 Cout=1
+A=190 B=110 Cin=1 | Sum= 45 Cout=1
+A=190 B=111 Cin=0 | Sum= 45 Cout=1
+A=190 B=111 Cin=1 | Sum= 46 Cout=1
+A=190 B=112 Cin=0 | Sum= 46 Cout=1
+A=190 B=112 Cin=1 | Sum= 47 Cout=1
+A=190 B=113 Cin=0 | Sum= 47 Cout=1
+A=190 B=113 Cin=1 | Sum= 36 Cout=1
+A=190 B=114 Cin=0 | Sum= 48 Cout=1
+A=190 B=114 Cin=1 | Sum= 49 Cout=1
+A=190 B=115 Cin=0 | Sum= 49 Cout=1
+A=190 B=115 Cin=1 | Sum= 50 Cout=1
+A=190 B=116 Cin=0 | Sum= 50 Cout=1
+A=190 B=116 Cin=1 | Sum= 51 Cout=1
+A=190 B=117 Cin=0 | Sum= 51 Cout=1
+A=190 B=117 Cin=1 | Sum= 48 Cout=1
+A=190 B=118 Cin=0 | Sum= 52 Cout=1
+A=190 B=118 Cin=1 | Sum= 53 Cout=1
+A=190 B=119 Cin=0 | Sum= 53 Cout=1
+A=190 B=119 Cin=1 | Sum= 54 Cout=1
+A=190 B=120 Cin=0 | Sum= 54 Cout=1
+A=190 B=120 Cin=1 | Sum= 55 Cout=1
+A=190 B=121 Cin=0 | Sum= 55 Cout=1
+A=190 B=121 Cin=1 | Sum= 60 Cout=1
+A=190 B=122 Cin=0 | Sum= 56 Cout=1
+A=190 B=122 Cin=1 | Sum= 57 Cout=1
+A=190 B=123 Cin=0 | Sum= 57 Cout=1
+A=190 B=123 Cin=1 | Sum= 58 Cout=1
+A=190 B=124 Cin=0 | Sum= 58 Cout=1
+A=190 B=124 Cin=1 | Sum= 59 Cout=1
+A=190 B=125 Cin=0 | Sum= 59 Cout=1
+A=190 B=125 Cin=1 | Sum= 56 Cout=1
+A=190 B=126 Cin=0 | Sum= 60 Cout=1
+A=190 B=126 Cin=1 | Sum= 61 Cout=1
+A=190 B=127 Cin=0 | Sum= 61 Cout=1
+A=190 B=127 Cin=1 | Sum= 62 Cout=1
+A=190 B=128 Cin=0 | Sum= 62 Cout=1
+A=190 B=128 Cin=1 | Sum= 63 Cout=1
+A=190 B=129 Cin=0 | Sum= 63 Cout=1
+A=190 B=129 Cin=1 | Sum= 20 Cout=1
+A=190 B=130 Cin=0 | Sum= 64 Cout=1
+A=190 B=130 Cin=1 | Sum= 65 Cout=1
+A=190 B=131 Cin=0 | Sum= 65 Cout=1
+A=190 B=131 Cin=1 | Sum= 66 Cout=1
+A=190 B=132 Cin=0 | Sum= 66 Cout=1
+A=190 B=132 Cin=1 | Sum= 67 Cout=1
+A=190 B=133 Cin=0 | Sum= 67 Cout=1
+A=190 B=133 Cin=1 | Sum= 64 Cout=1
+A=190 B=134 Cin=0 | Sum= 68 Cout=1
+A=190 B=134 Cin=1 | Sum= 69 Cout=1
+A=190 B=135 Cin=0 | Sum= 69 Cout=1
+A=190 B=135 Cin=1 | Sum= 70 Cout=1
+A=190 B=136 Cin=0 | Sum= 70 Cout=1
+A=190 B=136 Cin=1 | Sum= 71 Cout=1
+A=190 B=137 Cin=0 | Sum= 71 Cout=1
+A=190 B=137 Cin=1 | Sum= 76 Cout=1
+A=190 B=138 Cin=0 | Sum= 72 Cout=1
+A=190 B=138 Cin=1 | Sum= 73 Cout=1
+A=190 B=139 Cin=0 | Sum= 73 Cout=1
+A=190 B=139 Cin=1 | Sum= 74 Cout=1
+A=190 B=140 Cin=0 | Sum= 74 Cout=1
+A=190 B=140 Cin=1 | Sum= 75 Cout=1
+A=190 B=141 Cin=0 | Sum= 75 Cout=1
+A=190 B=141 Cin=1 | Sum= 72 Cout=1
+A=190 B=142 Cin=0 | Sum= 76 Cout=1
+A=190 B=142 Cin=1 | Sum= 77 Cout=1
+A=190 B=143 Cin=0 | Sum= 77 Cout=1
+A=190 B=143 Cin=1 | Sum= 78 Cout=1
+A=190 B=144 Cin=0 | Sum= 78 Cout=1
+A=190 B=144 Cin=1 | Sum= 79 Cout=1
+A=190 B=145 Cin=0 | Sum= 79 Cout=1
+A=190 B=145 Cin=1 | Sum= 68 Cout=1
+A=190 B=146 Cin=0 | Sum= 80 Cout=1
+A=190 B=146 Cin=1 | Sum= 81 Cout=1
+A=190 B=147 Cin=0 | Sum= 81 Cout=1
+A=190 B=147 Cin=1 | Sum= 82 Cout=1
+A=190 B=148 Cin=0 | Sum= 82 Cout=1
+A=190 B=148 Cin=1 | Sum= 83 Cout=1
+A=190 B=149 Cin=0 | Sum= 83 Cout=1
+A=190 B=149 Cin=1 | Sum= 80 Cout=1
+A=190 B=150 Cin=0 | Sum= 84 Cout=1
+A=190 B=150 Cin=1 | Sum= 85 Cout=1
+A=190 B=151 Cin=0 | Sum= 85 Cout=1
+A=190 B=151 Cin=1 | Sum= 86 Cout=1
+A=190 B=152 Cin=0 | Sum= 86 Cout=1
+A=190 B=152 Cin=1 | Sum= 87 Cout=1
+A=190 B=153 Cin=0 | Sum= 87 Cout=1
+A=190 B=153 Cin=1 | Sum= 92 Cout=1
+A=190 B=154 Cin=0 | Sum= 88 Cout=1
+A=190 B=154 Cin=1 | Sum= 89 Cout=1
+A=190 B=155 Cin=0 | Sum= 89 Cout=1
+A=190 B=155 Cin=1 | Sum= 90 Cout=1
+A=190 B=156 Cin=0 | Sum= 90 Cout=1
+A=190 B=156 Cin=1 | Sum= 91 Cout=1
+A=190 B=157 Cin=0 | Sum= 91 Cout=1
+A=190 B=157 Cin=1 | Sum= 88 Cout=1
+A=190 B=158 Cin=0 | Sum= 92 Cout=1
+A=190 B=158 Cin=1 | Sum= 93 Cout=1
+A=190 B=159 Cin=0 | Sum= 93 Cout=1
+A=190 B=159 Cin=1 | Sum= 94 Cout=1
+A=190 B=160 Cin=0 | Sum= 94 Cout=1
+A=190 B=160 Cin=1 | Sum= 95 Cout=1
+A=190 B=161 Cin=0 | Sum= 95 Cout=1
+A=190 B=161 Cin=1 | Sum=116 Cout=1
+A=190 B=162 Cin=0 | Sum= 96 Cout=1
+A=190 B=162 Cin=1 | Sum= 97 Cout=1
+A=190 B=163 Cin=0 | Sum= 97 Cout=1
+A=190 B=163 Cin=1 | Sum= 98 Cout=1
+A=190 B=164 Cin=0 | Sum= 98 Cout=1
+A=190 B=164 Cin=1 | Sum= 99 Cout=1
+A=190 B=165 Cin=0 | Sum= 99 Cout=1
+A=190 B=165 Cin=1 | Sum= 96 Cout=1
+A=190 B=166 Cin=0 | Sum=100 Cout=1
+A=190 B=166 Cin=1 | Sum=101 Cout=1
+A=190 B=167 Cin=0 | Sum=101 Cout=1
+A=190 B=167 Cin=1 | Sum=102 Cout=1
+A=190 B=168 Cin=0 | Sum=102 Cout=1
+A=190 B=168 Cin=1 | Sum=103 Cout=1
+A=190 B=169 Cin=0 | Sum=103 Cout=1
+A=190 B=169 Cin=1 | Sum=108 Cout=1
+A=190 B=170 Cin=0 | Sum=104 Cout=1
+A=190 B=170 Cin=1 | Sum=105 Cout=1
+A=190 B=171 Cin=0 | Sum=105 Cout=1
+A=190 B=171 Cin=1 | Sum=106 Cout=1
+A=190 B=172 Cin=0 | Sum=106 Cout=1
+A=190 B=172 Cin=1 | Sum=107 Cout=1
+A=190 B=173 Cin=0 | Sum=107 Cout=1
+A=190 B=173 Cin=1 | Sum=104 Cout=1
+A=190 B=174 Cin=0 | Sum=108 Cout=1
+A=190 B=174 Cin=1 | Sum=109 Cout=1
+A=190 B=175 Cin=0 | Sum=109 Cout=1
+A=190 B=175 Cin=1 | Sum=110 Cout=1
+A=190 B=176 Cin=0 | Sum=110 Cout=1
+A=190 B=176 Cin=1 | Sum=111 Cout=1
+A=190 B=177 Cin=0 | Sum=111 Cout=1
+A=190 B=177 Cin=1 | Sum=100 Cout=1
+A=190 B=178 Cin=0 | Sum=112 Cout=1
+A=190 B=178 Cin=1 | Sum=113 Cout=1
+A=190 B=179 Cin=0 | Sum=113 Cout=1
+A=190 B=179 Cin=1 | Sum=114 Cout=1
+A=190 B=180 Cin=0 | Sum=114 Cout=1
+A=190 B=180 Cin=1 | Sum=115 Cout=1
+A=190 B=181 Cin=0 | Sum=115 Cout=1
+A=190 B=181 Cin=1 | Sum=112 Cout=1
+A=190 B=182 Cin=0 | Sum=116 Cout=1
+A=190 B=182 Cin=1 | Sum=117 Cout=1
+A=190 B=183 Cin=0 | Sum=117 Cout=1
+A=190 B=183 Cin=1 | Sum=118 Cout=1
+A=190 B=184 Cin=0 | Sum=118 Cout=1
+A=190 B=184 Cin=1 | Sum=119 Cout=1
+A=190 B=185 Cin=0 | Sum=119 Cout=1
+A=190 B=185 Cin=1 | Sum=124 Cout=1
+A=190 B=186 Cin=0 | Sum=120 Cout=1
+A=190 B=186 Cin=1 | Sum=121 Cout=1
+A=190 B=187 Cin=0 | Sum=121 Cout=1
+A=190 B=187 Cin=1 | Sum=122 Cout=1
+A=190 B=188 Cin=0 | Sum=122 Cout=1
+A=190 B=188 Cin=1 | Sum=123 Cout=1
+A=190 B=189 Cin=0 | Sum=123 Cout=1
+A=190 B=189 Cin=1 | Sum=120 Cout=1
+A=190 B=190 Cin=0 | Sum=124 Cout=1
+A=190 B=190 Cin=1 | Sum=125 Cout=1
+A=190 B=191 Cin=0 | Sum=125 Cout=1
+A=190 B=191 Cin=1 | Sum=126 Cout=1
+A=190 B=192 Cin=0 | Sum=126 Cout=1
+A=190 B=192 Cin=1 | Sum=127 Cout=1
+A=190 B=193 Cin=0 | Sum=127 Cout=1
+A=190 B=193 Cin=1 | Sum=212 Cout=1
+A=190 B=194 Cin=0 | Sum=128 Cout=1
+A=190 B=194 Cin=1 | Sum=129 Cout=1
+A=190 B=195 Cin=0 | Sum=129 Cout=1
+A=190 B=195 Cin=1 | Sum=130 Cout=1
+A=190 B=196 Cin=0 | Sum=130 Cout=1
+A=190 B=196 Cin=1 | Sum=131 Cout=1
+A=190 B=197 Cin=0 | Sum=131 Cout=1
+A=190 B=197 Cin=1 | Sum=128 Cout=1
+A=190 B=198 Cin=0 | Sum=132 Cout=1
+A=190 B=198 Cin=1 | Sum=133 Cout=1
+A=190 B=199 Cin=0 | Sum=133 Cout=1
+A=190 B=199 Cin=1 | Sum=134 Cout=1
+A=190 B=200 Cin=0 | Sum=134 Cout=1
+A=190 B=200 Cin=1 | Sum=135 Cout=1
+A=190 B=201 Cin=0 | Sum=135 Cout=1
+A=190 B=201 Cin=1 | Sum=140 Cout=1
+A=190 B=202 Cin=0 | Sum=136 Cout=1
+A=190 B=202 Cin=1 | Sum=137 Cout=1
+A=190 B=203 Cin=0 | Sum=137 Cout=1
+A=190 B=203 Cin=1 | Sum=138 Cout=1
+A=190 B=204 Cin=0 | Sum=138 Cout=1
+A=190 B=204 Cin=1 | Sum=139 Cout=1
+A=190 B=205 Cin=0 | Sum=139 Cout=1
+A=190 B=205 Cin=1 | Sum=136 Cout=1
+A=190 B=206 Cin=0 | Sum=140 Cout=1
+A=190 B=206 Cin=1 | Sum=141 Cout=1
+A=190 B=207 Cin=0 | Sum=141 Cout=1
+A=190 B=207 Cin=1 | Sum=142 Cout=1
+A=190 B=208 Cin=0 | Sum=142 Cout=1
+A=190 B=208 Cin=1 | Sum=143 Cout=1
+A=190 B=209 Cin=0 | Sum=143 Cout=1
+A=190 B=209 Cin=1 | Sum=132 Cout=1
+A=190 B=210 Cin=0 | Sum=144 Cout=1
+A=190 B=210 Cin=1 | Sum=145 Cout=1
+A=190 B=211 Cin=0 | Sum=145 Cout=1
+A=190 B=211 Cin=1 | Sum=146 Cout=1
+A=190 B=212 Cin=0 | Sum=146 Cout=1
+A=190 B=212 Cin=1 | Sum=147 Cout=1
+A=190 B=213 Cin=0 | Sum=147 Cout=1
+A=190 B=213 Cin=1 | Sum=144 Cout=1
+A=190 B=214 Cin=0 | Sum=148 Cout=1
+A=190 B=214 Cin=1 | Sum=149 Cout=1
+A=190 B=215 Cin=0 | Sum=149 Cout=1
+A=190 B=215 Cin=1 | Sum=150 Cout=1
+A=190 B=216 Cin=0 | Sum=150 Cout=1
+A=190 B=216 Cin=1 | Sum=151 Cout=1
+A=190 B=217 Cin=0 | Sum=151 Cout=1
+A=190 B=217 Cin=1 | Sum=156 Cout=1
+A=190 B=218 Cin=0 | Sum=152 Cout=1
+A=190 B=218 Cin=1 | Sum=153 Cout=1
+A=190 B=219 Cin=0 | Sum=153 Cout=1
+A=190 B=219 Cin=1 | Sum=154 Cout=1
+A=190 B=220 Cin=0 | Sum=154 Cout=1
+A=190 B=220 Cin=1 | Sum=155 Cout=1
+A=190 B=221 Cin=0 | Sum=155 Cout=1
+A=190 B=221 Cin=1 | Sum=152 Cout=1
+A=190 B=222 Cin=0 | Sum=156 Cout=1
+A=190 B=222 Cin=1 | Sum=157 Cout=1
+A=190 B=223 Cin=0 | Sum=157 Cout=1
+A=190 B=223 Cin=1 | Sum=158 Cout=1
+A=190 B=224 Cin=0 | Sum=158 Cout=1
+A=190 B=224 Cin=1 | Sum=159 Cout=1
+A=190 B=225 Cin=0 | Sum=159 Cout=1
+A=190 B=225 Cin=1 | Sum=180 Cout=1
+A=190 B=226 Cin=0 | Sum=160 Cout=1
+A=190 B=226 Cin=1 | Sum=161 Cout=1
+A=190 B=227 Cin=0 | Sum=161 Cout=1
+A=190 B=227 Cin=1 | Sum=162 Cout=1
+A=190 B=228 Cin=0 | Sum=162 Cout=1
+A=190 B=228 Cin=1 | Sum=163 Cout=1
+A=190 B=229 Cin=0 | Sum=163 Cout=1
+A=190 B=229 Cin=1 | Sum=160 Cout=1
+A=190 B=230 Cin=0 | Sum=164 Cout=1
+A=190 B=230 Cin=1 | Sum=165 Cout=1
+A=190 B=231 Cin=0 | Sum=165 Cout=1
+A=190 B=231 Cin=1 | Sum=166 Cout=1
+A=190 B=232 Cin=0 | Sum=166 Cout=1
+A=190 B=232 Cin=1 | Sum=167 Cout=1
+A=190 B=233 Cin=0 | Sum=167 Cout=1
+A=190 B=233 Cin=1 | Sum=172 Cout=1
+A=190 B=234 Cin=0 | Sum=168 Cout=1
+A=190 B=234 Cin=1 | Sum=169 Cout=1
+A=190 B=235 Cin=0 | Sum=169 Cout=1
+A=190 B=235 Cin=1 | Sum=170 Cout=1
+A=190 B=236 Cin=0 | Sum=170 Cout=1
+A=190 B=236 Cin=1 | Sum=171 Cout=1
+A=190 B=237 Cin=0 | Sum=171 Cout=1
+A=190 B=237 Cin=1 | Sum=168 Cout=1
+A=190 B=238 Cin=0 | Sum=172 Cout=1
+A=190 B=238 Cin=1 | Sum=173 Cout=1
+A=190 B=239 Cin=0 | Sum=173 Cout=1
+A=190 B=239 Cin=1 | Sum=174 Cout=1
+A=190 B=240 Cin=0 | Sum=174 Cout=1
+A=190 B=240 Cin=1 | Sum=175 Cout=1
+A=190 B=241 Cin=0 | Sum=175 Cout=1
+A=190 B=241 Cin=1 | Sum=164 Cout=1
+A=190 B=242 Cin=0 | Sum=176 Cout=1
+A=190 B=242 Cin=1 | Sum=177 Cout=1
+A=190 B=243 Cin=0 | Sum=177 Cout=1
+A=190 B=243 Cin=1 | Sum=178 Cout=1
+A=190 B=244 Cin=0 | Sum=178 Cout=1
+A=190 B=244 Cin=1 | Sum=179 Cout=1
+A=190 B=245 Cin=0 | Sum=179 Cout=1
+A=190 B=245 Cin=1 | Sum=176 Cout=1
+A=190 B=246 Cin=0 | Sum=180 Cout=1
+A=190 B=246 Cin=1 | Sum=181 Cout=1
+A=190 B=247 Cin=0 | Sum=181 Cout=1
+A=190 B=247 Cin=1 | Sum=182 Cout=1
+A=190 B=248 Cin=0 | Sum=182 Cout=1
+A=190 B=248 Cin=1 | Sum=183 Cout=1
+A=190 B=249 Cin=0 | Sum=183 Cout=1
+A=190 B=249 Cin=1 | Sum=188 Cout=1
+A=190 B=250 Cin=0 | Sum=184 Cout=1
+A=190 B=250 Cin=1 | Sum=185 Cout=1
+A=190 B=251 Cin=0 | Sum=185 Cout=1
+A=190 B=251 Cin=1 | Sum=186 Cout=1
+A=190 B=252 Cin=0 | Sum=186 Cout=1
+A=190 B=252 Cin=1 | Sum=187 Cout=1
+A=190 B=253 Cin=0 | Sum=187 Cout=1
+A=190 B=253 Cin=1 | Sum=184 Cout=1
+A=190 B=254 Cin=0 | Sum=188 Cout=1
+A=190 B=254 Cin=1 | Sum=189 Cout=1
+A=190 B=255 Cin=0 | Sum=189 Cout=1
+A=190 B=255 Cin=1 | Sum=190 Cout=1
+A=191 B= 40 Cin=0 | Sum=231 Cout=1
+A=191 B= 40 Cin=1 | Sum=236 Cout=1
+A=191 B= 41 Cin=0 | Sum=232 Cout=1
+A=191 B= 41 Cin=1 | Sum=233 Cout=1
+A=191 B= 42 Cin=0 | Sum=233 Cout=1
+A=191 B= 42 Cin=1 | Sum=234 Cout=1
+A=191 B= 43 Cin=0 | Sum=234 Cout=1
+A=191 B= 43 Cin=1 | Sum=235 Cout=1
+A=191 B= 44 Cin=0 | Sum=235 Cout=1
+A=191 B= 44 Cin=1 | Sum=232 Cout=1
+A=191 B= 45 Cin=0 | Sum=236 Cout=1
+A=191 B= 45 Cin=1 | Sum=237 Cout=1
+A=191 B= 46 Cin=0 | Sum=237 Cout=1
+A=191 B= 46 Cin=1 | Sum=238 Cout=1
+A=191 B= 47 Cin=0 | Sum=238 Cout=1
+A=191 B= 47 Cin=1 | Sum=239 Cout=1
+A=191 B= 48 Cin=0 | Sum=239 Cout=1
+A=191 B= 48 Cin=1 | Sum=228 Cout=1
+A=191 B= 49 Cin=0 | Sum=240 Cout=1
+A=191 B= 49 Cin=1 | Sum=241 Cout=1
+A=191 B= 50 Cin=0 | Sum=241 Cout=1
+A=191 B= 50 Cin=1 | Sum=242 Cout=1
+A=191 B= 51 Cin=0 | Sum=242 Cout=1
+A=191 B= 51 Cin=1 | Sum=243 Cout=1
+A=191 B= 52 Cin=0 | Sum=243 Cout=1
+A=191 B= 52 Cin=1 | Sum=240 Cout=1
+A=191 B= 53 Cin=0 | Sum=244 Cout=1
+A=191 B= 53 Cin=1 | Sum=245 Cout=1
+A=191 B= 54 Cin=0 | Sum=245 Cout=1
+A=191 B= 54 Cin=1 | Sum=246 Cout=1
+A=191 B= 55 Cin=0 | Sum=246 Cout=1
+A=191 B= 55 Cin=1 | Sum=247 Cout=1
+A=191 B= 56 Cin=0 | Sum=247 Cout=1
+A=191 B= 56 Cin=1 | Sum=252 Cout=1
+A=191 B= 57 Cin=0 | Sum=248 Cout=1
+A=191 B= 57 Cin=1 | Sum=249 Cout=1
+A=191 B= 58 Cin=0 | Sum=249 Cout=1
+A=191 B= 58 Cin=1 | Sum=250 Cout=1
+A=191 B= 59 Cin=0 | Sum=250 Cout=1
+A=191 B= 59 Cin=1 | Sum=251 Cout=1
+A=191 B= 60 Cin=0 | Sum=251 Cout=1
+A=191 B= 60 Cin=1 | Sum=248 Cout=1
+A=191 B= 61 Cin=0 | Sum=252 Cout=1
+A=191 B= 61 Cin=1 | Sum=253 Cout=1
+A=191 B= 62 Cin=0 | Sum=253 Cout=1
+A=191 B= 62 Cin=1 | Sum=254 Cout=1
+A=191 B= 63 Cin=0 | Sum=254 Cout=1
+A=191 B= 63 Cin=1 | Sum=255 Cout=1
+A=191 B= 64 Cin=0 | Sum=255 Cout=0
+A=191 B= 64 Cin=1 | Sum= 84 Cout=0
+A=191 B= 65 Cin=0 | Sum=  0 Cout=1
+A=191 B= 65 Cin=1 | Sum=  1 Cout=1
+A=191 B= 66 Cin=0 | Sum=  1 Cout=1
+A=191 B= 66 Cin=1 | Sum=  2 Cout=1
+A=191 B= 67 Cin=0 | Sum=  2 Cout=1
+A=191 B= 67 Cin=1 | Sum=  3 Cout=1
+A=191 B= 68 Cin=0 | Sum=  3 Cout=1
+A=191 B= 68 Cin=1 | Sum=  0 Cout=1
+A=191 B= 69 Cin=0 | Sum=  4 Cout=1
+A=191 B= 69 Cin=1 | Sum=  5 Cout=1
+A=191 B= 70 Cin=0 | Sum=  5 Cout=1
+A=191 B= 70 Cin=1 | Sum=  6 Cout=1
+A=191 B= 71 Cin=0 | Sum=  6 Cout=1
+A=191 B= 71 Cin=1 | Sum=  7 Cout=1
+A=191 B= 72 Cin=0 | Sum=  7 Cout=1
+A=191 B= 72 Cin=1 | Sum= 12 Cout=1
+A=191 B= 73 Cin=0 | Sum=  8 Cout=1
+A=191 B= 73 Cin=1 | Sum=  9 Cout=1
+A=191 B= 74 Cin=0 | Sum=  9 Cout=1
+A=191 B= 74 Cin=1 | Sum= 10 Cout=1
+A=191 B= 75 Cin=0 | Sum= 10 Cout=1
+A=191 B= 75 Cin=1 | Sum= 11 Cout=1
+A=191 B= 76 Cin=0 | Sum= 11 Cout=1
+A=191 B= 76 Cin=1 | Sum=  8 Cout=1
+A=191 B= 77 Cin=0 | Sum= 12 Cout=1
+A=191 B= 77 Cin=1 | Sum= 13 Cout=1
+A=191 B= 78 Cin=0 | Sum= 13 Cout=1
+A=191 B= 78 Cin=1 | Sum= 14 Cout=1
+A=191 B= 79 Cin=0 | Sum= 14 Cout=1
+A=191 B= 79 Cin=1 | Sum= 15 Cout=1
+A=191 B= 80 Cin=0 | Sum= 15 Cout=1
+A=191 B= 80 Cin=1 | Sum=  4 Cout=1
+A=191 B= 81 Cin=0 | Sum= 16 Cout=1
+A=191 B= 81 Cin=1 | Sum= 17 Cout=1
+A=191 B= 82 Cin=0 | Sum= 17 Cout=1
+A=191 B= 82 Cin=1 | Sum= 18 Cout=1
+A=191 B= 83 Cin=0 | Sum= 18 Cout=1
+A=191 B= 83 Cin=1 | Sum= 19 Cout=1
+A=191 B= 84 Cin=0 | Sum= 19 Cout=1
+A=191 B= 84 Cin=1 | Sum= 16 Cout=1
+A=191 B= 85 Cin=0 | Sum= 20 Cout=1
+A=191 B= 85 Cin=1 | Sum= 21 Cout=1
+A=191 B= 86 Cin=0 | Sum= 21 Cout=1
+A=191 B= 86 Cin=1 | Sum= 22 Cout=1
+A=191 B= 87 Cin=0 | Sum= 22 Cout=1
+A=191 B= 87 Cin=1 | Sum= 23 Cout=1
+A=191 B= 88 Cin=0 | Sum= 23 Cout=1
+A=191 B= 88 Cin=1 | Sum= 28 Cout=1
+A=191 B= 89 Cin=0 | Sum= 24 Cout=1
+A=191 B= 89 Cin=1 | Sum= 25 Cout=1
+A=191 B= 90 Cin=0 | Sum= 25 Cout=1
+A=191 B= 90 Cin=1 | Sum= 26 Cout=1
+A=191 B= 91 Cin=0 | Sum= 26 Cout=1
+A=191 B= 91 Cin=1 | Sum= 27 Cout=1
+A=191 B= 92 Cin=0 | Sum= 27 Cout=1
+A=191 B= 92 Cin=1 | Sum= 24 Cout=1
+A=191 B= 93 Cin=0 | Sum= 28 Cout=1
+A=191 B= 93 Cin=1 | Sum= 29 Cout=1
+A=191 B= 94 Cin=0 | Sum= 29 Cout=1
+A=191 B= 94 Cin=1 | Sum= 30 Cout=1
+A=191 B= 95 Cin=0 | Sum= 30 Cout=1
+A=191 B= 95 Cin=1 | Sum= 31 Cout=1
+A=191 B= 96 Cin=0 | Sum= 31 Cout=1
+A=191 B= 96 Cin=1 | Sum= 52 Cout=1
+A=191 B= 97 Cin=0 | Sum= 32 Cout=1
+A=191 B= 97 Cin=1 | Sum= 33 Cout=1
+A=191 B= 98 Cin=0 | Sum= 33 Cout=1
+A=191 B= 98 Cin=1 | Sum= 34 Cout=1
+A=191 B= 99 Cin=0 | Sum= 34 Cout=1
+A=191 B= 99 Cin=1 | Sum= 35 Cout=1
+A=191 B=100 Cin=0 | Sum= 35 Cout=1
+A=191 B=100 Cin=1 | Sum= 32 Cout=1
+A=191 B=101 Cin=0 | Sum= 36 Cout=1
+A=191 B=101 Cin=1 | Sum= 37 Cout=1
+A=191 B=102 Cin=0 | Sum= 37 Cout=1
+A=191 B=102 Cin=1 | Sum= 38 Cout=1
+A=191 B=103 Cin=0 | Sum= 38 Cout=1
+A=191 B=103 Cin=1 | Sum= 39 Cout=1
+A=191 B=104 Cin=0 | Sum= 39 Cout=1
+A=191 B=104 Cin=1 | Sum= 44 Cout=1
+A=191 B=105 Cin=0 | Sum= 40 Cout=1
+A=191 B=105 Cin=1 | Sum= 41 Cout=1
+A=191 B=106 Cin=0 | Sum= 41 Cout=1
+A=191 B=106 Cin=1 | Sum= 42 Cout=1
+A=191 B=107 Cin=0 | Sum= 42 Cout=1
+A=191 B=107 Cin=1 | Sum= 43 Cout=1
+A=191 B=108 Cin=0 | Sum= 43 Cout=1
+A=191 B=108 Cin=1 | Sum= 40 Cout=1
+A=191 B=109 Cin=0 | Sum= 44 Cout=1
+A=191 B=109 Cin=1 | Sum= 45 Cout=1
+A=191 B=110 Cin=0 | Sum= 45 Cout=1
+A=191 B=110 Cin=1 | Sum= 46 Cout=1
+A=191 B=111 Cin=0 | Sum= 46 Cout=1
+A=191 B=111 Cin=1 | Sum= 47 Cout=1
+A=191 B=112 Cin=0 | Sum= 47 Cout=1
+A=191 B=112 Cin=1 | Sum= 36 Cout=1
+A=191 B=113 Cin=0 | Sum= 48 Cout=1
+A=191 B=113 Cin=1 | Sum= 49 Cout=1
+A=191 B=114 Cin=0 | Sum= 49 Cout=1
+A=191 B=114 Cin=1 | Sum= 50 Cout=1
+A=191 B=115 Cin=0 | Sum= 50 Cout=1
+A=191 B=115 Cin=1 | Sum= 51 Cout=1
+A=191 B=116 Cin=0 | Sum= 51 Cout=1
+A=191 B=116 Cin=1 | Sum= 48 Cout=1
+A=191 B=117 Cin=0 | Sum= 52 Cout=1
+A=191 B=117 Cin=1 | Sum= 53 Cout=1
+A=191 B=118 Cin=0 | Sum= 53 Cout=1
+A=191 B=118 Cin=1 | Sum= 54 Cout=1
+A=191 B=119 Cin=0 | Sum= 54 Cout=1
+A=191 B=119 Cin=1 | Sum= 55 Cout=1
+A=191 B=120 Cin=0 | Sum= 55 Cout=1
+A=191 B=120 Cin=1 | Sum= 60 Cout=1
+A=191 B=121 Cin=0 | Sum= 56 Cout=1
+A=191 B=121 Cin=1 | Sum= 57 Cout=1
+A=191 B=122 Cin=0 | Sum= 57 Cout=1
+A=191 B=122 Cin=1 | Sum= 58 Cout=1
+A=191 B=123 Cin=0 | Sum= 58 Cout=1
+A=191 B=123 Cin=1 | Sum= 59 Cout=1
+A=191 B=124 Cin=0 | Sum= 59 Cout=1
+A=191 B=124 Cin=1 | Sum= 56 Cout=1
+A=191 B=125 Cin=0 | Sum= 60 Cout=1
+A=191 B=125 Cin=1 | Sum= 61 Cout=1
+A=191 B=126 Cin=0 | Sum= 61 Cout=1
+A=191 B=126 Cin=1 | Sum= 62 Cout=1
+A=191 B=127 Cin=0 | Sum= 62 Cout=1
+A=191 B=127 Cin=1 | Sum= 63 Cout=1
+A=191 B=128 Cin=0 | Sum= 63 Cout=1
+A=191 B=128 Cin=1 | Sum= 20 Cout=1
+A=191 B=129 Cin=0 | Sum= 64 Cout=1
+A=191 B=129 Cin=1 | Sum= 65 Cout=1
+A=191 B=130 Cin=0 | Sum= 65 Cout=1
+A=191 B=130 Cin=1 | Sum= 66 Cout=1
+A=191 B=131 Cin=0 | Sum= 66 Cout=1
+A=191 B=131 Cin=1 | Sum= 67 Cout=1
+A=191 B=132 Cin=0 | Sum= 67 Cout=1
+A=191 B=132 Cin=1 | Sum= 64 Cout=1
+A=191 B=133 Cin=0 | Sum= 68 Cout=1
+A=191 B=133 Cin=1 | Sum= 69 Cout=1
+A=191 B=134 Cin=0 | Sum= 69 Cout=1
+A=191 B=134 Cin=1 | Sum= 70 Cout=1
+A=191 B=135 Cin=0 | Sum= 70 Cout=1
+A=191 B=135 Cin=1 | Sum= 71 Cout=1
+A=191 B=136 Cin=0 | Sum= 71 Cout=1
+A=191 B=136 Cin=1 | Sum= 76 Cout=1
+A=191 B=137 Cin=0 | Sum= 72 Cout=1
+A=191 B=137 Cin=1 | Sum= 73 Cout=1
+A=191 B=138 Cin=0 | Sum= 73 Cout=1
+A=191 B=138 Cin=1 | Sum= 74 Cout=1
+A=191 B=139 Cin=0 | Sum= 74 Cout=1
+A=191 B=139 Cin=1 | Sum= 75 Cout=1
+A=191 B=140 Cin=0 | Sum= 75 Cout=1
+A=191 B=140 Cin=1 | Sum= 72 Cout=1
+A=191 B=141 Cin=0 | Sum= 76 Cout=1
+A=191 B=141 Cin=1 | Sum= 77 Cout=1
+A=191 B=142 Cin=0 | Sum= 77 Cout=1
+A=191 B=142 Cin=1 | Sum= 78 Cout=1
+A=191 B=143 Cin=0 | Sum= 78 Cout=1
+A=191 B=143 Cin=1 | Sum= 79 Cout=1
+A=191 B=144 Cin=0 | Sum= 79 Cout=1
+A=191 B=144 Cin=1 | Sum= 68 Cout=1
+A=191 B=145 Cin=0 | Sum= 80 Cout=1
+A=191 B=145 Cin=1 | Sum= 81 Cout=1
+A=191 B=146 Cin=0 | Sum= 81 Cout=1
+A=191 B=146 Cin=1 | Sum= 82 Cout=1
+A=191 B=147 Cin=0 | Sum= 82 Cout=1
+A=191 B=147 Cin=1 | Sum= 83 Cout=1
+A=191 B=148 Cin=0 | Sum= 83 Cout=1
+A=191 B=148 Cin=1 | Sum= 80 Cout=1
+A=191 B=149 Cin=0 | Sum= 84 Cout=1
+A=191 B=149 Cin=1 | Sum= 85 Cout=1
+A=191 B=150 Cin=0 | Sum= 85 Cout=1
+A=191 B=150 Cin=1 | Sum= 86 Cout=1
+A=191 B=151 Cin=0 | Sum= 86 Cout=1
+A=191 B=151 Cin=1 | Sum= 87 Cout=1
+A=191 B=152 Cin=0 | Sum= 87 Cout=1
+A=191 B=152 Cin=1 | Sum= 92 Cout=1
+A=191 B=153 Cin=0 | Sum= 88 Cout=1
+A=191 B=153 Cin=1 | Sum= 89 Cout=1
+A=191 B=154 Cin=0 | Sum= 89 Cout=1
+A=191 B=154 Cin=1 | Sum= 90 Cout=1
+A=191 B=155 Cin=0 | Sum= 90 Cout=1
+A=191 B=155 Cin=1 | Sum= 91 Cout=1
+A=191 B=156 Cin=0 | Sum= 91 Cout=1
+A=191 B=156 Cin=1 | Sum= 88 Cout=1
+A=191 B=157 Cin=0 | Sum= 92 Cout=1
+A=191 B=157 Cin=1 | Sum= 93 Cout=1
+A=191 B=158 Cin=0 | Sum= 93 Cout=1
+A=191 B=158 Cin=1 | Sum= 94 Cout=1
+A=191 B=159 Cin=0 | Sum= 94 Cout=1
+A=191 B=159 Cin=1 | Sum= 95 Cout=1
+A=191 B=160 Cin=0 | Sum= 95 Cout=1
+A=191 B=160 Cin=1 | Sum=116 Cout=1
+A=191 B=161 Cin=0 | Sum= 96 Cout=1
+A=191 B=161 Cin=1 | Sum= 97 Cout=1
+A=191 B=162 Cin=0 | Sum= 97 Cout=1
+A=191 B=162 Cin=1 | Sum= 98 Cout=1
+A=191 B=163 Cin=0 | Sum= 98 Cout=1
+A=191 B=163 Cin=1 | Sum= 99 Cout=1
+A=191 B=164 Cin=0 | Sum= 99 Cout=1
+A=191 B=164 Cin=1 | Sum= 96 Cout=1
+A=191 B=165 Cin=0 | Sum=100 Cout=1
+A=191 B=165 Cin=1 | Sum=101 Cout=1
+A=191 B=166 Cin=0 | Sum=101 Cout=1
+A=191 B=166 Cin=1 | Sum=102 Cout=1
+A=191 B=167 Cin=0 | Sum=102 Cout=1
+A=191 B=167 Cin=1 | Sum=103 Cout=1
+A=191 B=168 Cin=0 | Sum=103 Cout=1
+A=191 B=168 Cin=1 | Sum=108 Cout=1
+A=191 B=169 Cin=0 | Sum=104 Cout=1
+A=191 B=169 Cin=1 | Sum=105 Cout=1
+A=191 B=170 Cin=0 | Sum=105 Cout=1
+A=191 B=170 Cin=1 | Sum=106 Cout=1
+A=191 B=171 Cin=0 | Sum=106 Cout=1
+A=191 B=171 Cin=1 | Sum=107 Cout=1
+A=191 B=172 Cin=0 | Sum=107 Cout=1
+A=191 B=172 Cin=1 | Sum=104 Cout=1
+A=191 B=173 Cin=0 | Sum=108 Cout=1
+A=191 B=173 Cin=1 | Sum=109 Cout=1
+A=191 B=174 Cin=0 | Sum=109 Cout=1
+A=191 B=174 Cin=1 | Sum=110 Cout=1
+A=191 B=175 Cin=0 | Sum=110 Cout=1
+A=191 B=175 Cin=1 | Sum=111 Cout=1
+A=191 B=176 Cin=0 | Sum=111 Cout=1
+A=191 B=176 Cin=1 | Sum=100 Cout=1
+A=191 B=177 Cin=0 | Sum=112 Cout=1
+A=191 B=177 Cin=1 | Sum=113 Cout=1
+A=191 B=178 Cin=0 | Sum=113 Cout=1
+A=191 B=178 Cin=1 | Sum=114 Cout=1
+A=191 B=179 Cin=0 | Sum=114 Cout=1
+A=191 B=179 Cin=1 | Sum=115 Cout=1
+A=191 B=180 Cin=0 | Sum=115 Cout=1
+A=191 B=180 Cin=1 | Sum=112 Cout=1
+A=191 B=181 Cin=0 | Sum=116 Cout=1
+A=191 B=181 Cin=1 | Sum=117 Cout=1
+A=191 B=182 Cin=0 | Sum=117 Cout=1
+A=191 B=182 Cin=1 | Sum=118 Cout=1
+A=191 B=183 Cin=0 | Sum=118 Cout=1
+A=191 B=183 Cin=1 | Sum=119 Cout=1
+A=191 B=184 Cin=0 | Sum=119 Cout=1
+A=191 B=184 Cin=1 | Sum=124 Cout=1
+A=191 B=185 Cin=0 | Sum=120 Cout=1
+A=191 B=185 Cin=1 | Sum=121 Cout=1
+A=191 B=186 Cin=0 | Sum=121 Cout=1
+A=191 B=186 Cin=1 | Sum=122 Cout=1
+A=191 B=187 Cin=0 | Sum=122 Cout=1
+A=191 B=187 Cin=1 | Sum=123 Cout=1
+A=191 B=188 Cin=0 | Sum=123 Cout=1
+A=191 B=188 Cin=1 | Sum=120 Cout=1
+A=191 B=189 Cin=0 | Sum=124 Cout=1
+A=191 B=189 Cin=1 | Sum=125 Cout=1
+A=191 B=190 Cin=0 | Sum=125 Cout=1
+A=191 B=190 Cin=1 | Sum=126 Cout=1
+A=191 B=191 Cin=0 | Sum=126 Cout=1
+A=191 B=191 Cin=1 | Sum=127 Cout=1
+A=191 B=192 Cin=0 | Sum=127 Cout=1
+A=191 B=192 Cin=1 | Sum=212 Cout=1
+A=191 B=193 Cin=0 | Sum=128 Cout=1
+A=191 B=193 Cin=1 | Sum=129 Cout=1
+A=191 B=194 Cin=0 | Sum=129 Cout=1
+A=191 B=194 Cin=1 | Sum=130 Cout=1
+A=191 B=195 Cin=0 | Sum=130 Cout=1
+A=191 B=195 Cin=1 | Sum=131 Cout=1
+A=191 B=196 Cin=0 | Sum=131 Cout=1
+A=191 B=196 Cin=1 | Sum=128 Cout=1
+A=191 B=197 Cin=0 | Sum=132 Cout=1
+A=191 B=197 Cin=1 | Sum=133 Cout=1
+A=191 B=198 Cin=0 | Sum=133 Cout=1
+A=191 B=198 Cin=1 | Sum=134 Cout=1
+A=191 B=199 Cin=0 | Sum=134 Cout=1
+A=191 B=199 Cin=1 | Sum=135 Cout=1
+A=191 B=200 Cin=0 | Sum=135 Cout=1
+A=191 B=200 Cin=1 | Sum=140 Cout=1
+A=191 B=201 Cin=0 | Sum=136 Cout=1
+A=191 B=201 Cin=1 | Sum=137 Cout=1
+A=191 B=202 Cin=0 | Sum=137 Cout=1
+A=191 B=202 Cin=1 | Sum=138 Cout=1
+A=191 B=203 Cin=0 | Sum=138 Cout=1
+A=191 B=203 Cin=1 | Sum=139 Cout=1
+A=191 B=204 Cin=0 | Sum=139 Cout=1
+A=191 B=204 Cin=1 | Sum=136 Cout=1
+A=191 B=205 Cin=0 | Sum=140 Cout=1
+A=191 B=205 Cin=1 | Sum=141 Cout=1
+A=191 B=206 Cin=0 | Sum=141 Cout=1
+A=191 B=206 Cin=1 | Sum=142 Cout=1
+A=191 B=207 Cin=0 | Sum=142 Cout=1
+A=191 B=207 Cin=1 | Sum=143 Cout=1
+A=191 B=208 Cin=0 | Sum=143 Cout=1
+A=191 B=208 Cin=1 | Sum=132 Cout=1
+A=191 B=209 Cin=0 | Sum=144 Cout=1
+A=191 B=209 Cin=1 | Sum=145 Cout=1
+A=191 B=210 Cin=0 | Sum=145 Cout=1
+A=191 B=210 Cin=1 | Sum=146 Cout=1
+A=191 B=211 Cin=0 | Sum=146 Cout=1
+A=191 B=211 Cin=1 | Sum=147 Cout=1
+A=191 B=212 Cin=0 | Sum=147 Cout=1
+A=191 B=212 Cin=1 | Sum=144 Cout=1
+A=191 B=213 Cin=0 | Sum=148 Cout=1
+A=191 B=213 Cin=1 | Sum=149 Cout=1
+A=191 B=214 Cin=0 | Sum=149 Cout=1
+A=191 B=214 Cin=1 | Sum=150 Cout=1
+A=191 B=215 Cin=0 | Sum=150 Cout=1
+A=191 B=215 Cin=1 | Sum=151 Cout=1
+A=191 B=216 Cin=0 | Sum=151 Cout=1
+A=191 B=216 Cin=1 | Sum=156 Cout=1
+A=191 B=217 Cin=0 | Sum=152 Cout=1
+A=191 B=217 Cin=1 | Sum=153 Cout=1
+A=191 B=218 Cin=0 | Sum=153 Cout=1
+A=191 B=218 Cin=1 | Sum=154 Cout=1
+A=191 B=219 Cin=0 | Sum=154 Cout=1
+A=191 B=219 Cin=1 | Sum=155 Cout=1
+A=191 B=220 Cin=0 | Sum=155 Cout=1
+A=191 B=220 Cin=1 | Sum=152 Cout=1
+A=191 B=221 Cin=0 | Sum=156 Cout=1
+A=191 B=221 Cin=1 | Sum=157 Cout=1
+A=191 B=222 Cin=0 | Sum=157 Cout=1
+A=191 B=222 Cin=1 | Sum=158 Cout=1
+A=191 B=223 Cin=0 | Sum=158 Cout=1
+A=191 B=223 Cin=1 | Sum=159 Cout=1
+A=191 B=224 Cin=0 | Sum=159 Cout=1
+A=191 B=224 Cin=1 | Sum=180 Cout=1
+A=191 B=225 Cin=0 | Sum=160 Cout=1
+A=191 B=225 Cin=1 | Sum=161 Cout=1
+A=191 B=226 Cin=0 | Sum=161 Cout=1
+A=191 B=226 Cin=1 | Sum=162 Cout=1
+A=191 B=227 Cin=0 | Sum=162 Cout=1
+A=191 B=227 Cin=1 | Sum=163 Cout=1
+A=191 B=228 Cin=0 | Sum=163 Cout=1
+A=191 B=228 Cin=1 | Sum=160 Cout=1
+A=191 B=229 Cin=0 | Sum=164 Cout=1
+A=191 B=229 Cin=1 | Sum=165 Cout=1
+A=191 B=230 Cin=0 | Sum=165 Cout=1
+A=191 B=230 Cin=1 | Sum=166 Cout=1
+A=191 B=231 Cin=0 | Sum=166 Cout=1
+A=191 B=231 Cin=1 | Sum=167 Cout=1
+A=191 B=232 Cin=0 | Sum=167 Cout=1
+A=191 B=232 Cin=1 | Sum=172 Cout=1
+A=191 B=233 Cin=0 | Sum=168 Cout=1
+A=191 B=233 Cin=1 | Sum=169 Cout=1
+A=191 B=234 Cin=0 | Sum=169 Cout=1
+A=191 B=234 Cin=1 | Sum=170 Cout=1
+A=191 B=235 Cin=0 | Sum=170 Cout=1
+A=191 B=235 Cin=1 | Sum=171 Cout=1
+A=191 B=236 Cin=0 | Sum=171 Cout=1
+A=191 B=236 Cin=1 | Sum=168 Cout=1
+A=191 B=237 Cin=0 | Sum=172 Cout=1
+A=191 B=237 Cin=1 | Sum=173 Cout=1
+A=191 B=238 Cin=0 | Sum=173 Cout=1
+A=191 B=238 Cin=1 | Sum=174 Cout=1
+A=191 B=239 Cin=0 | Sum=174 Cout=1
+A=191 B=239 Cin=1 | Sum=175 Cout=1
+A=191 B=240 Cin=0 | Sum=175 Cout=1
+A=191 B=240 Cin=1 | Sum=164 Cout=1
+A=191 B=241 Cin=0 | Sum=176 Cout=1
+A=191 B=241 Cin=1 | Sum=177 Cout=1
+A=191 B=242 Cin=0 | Sum=177 Cout=1
+A=191 B=242 Cin=1 | Sum=178 Cout=1
+A=191 B=243 Cin=0 | Sum=178 Cout=1
+A=191 B=243 Cin=1 | Sum=179 Cout=1
+A=191 B=244 Cin=0 | Sum=179 Cout=1
+A=191 B=244 Cin=1 | Sum=176 Cout=1
+A=191 B=245 Cin=0 | Sum=180 Cout=1
+A=191 B=245 Cin=1 | Sum=181 Cout=1
+A=191 B=246 Cin=0 | Sum=181 Cout=1
+A=191 B=246 Cin=1 | Sum=182 Cout=1
+A=191 B=247 Cin=0 | Sum=182 Cout=1
+A=191 B=247 Cin=1 | Sum=183 Cout=1
+A=191 B=248 Cin=0 | Sum=183 Cout=1
+A=191 B=248 Cin=1 | Sum=188 Cout=1
+A=191 B=249 Cin=0 | Sum=184 Cout=1
+A=191 B=249 Cin=1 | Sum=185 Cout=1
+A=191 B=250 Cin=0 | Sum=185 Cout=1
+A=191 B=250 Cin=1 | Sum=186 Cout=1
+A=191 B=251 Cin=0 | Sum=186 Cout=1
+A=191 B=251 Cin=1 | Sum=187 Cout=1
+A=191 B=252 Cin=0 | Sum=187 Cout=1
+A=191 B=252 Cin=1 | Sum=184 Cout=1
+A=191 B=253 Cin=0 | Sum=188 Cout=1
+A=191 B=253 Cin=1 | Sum=189 Cout=1
+A=191 B=254 Cin=0 | Sum=189 Cout=1
+A=191 B=254 Cin=1 | Sum=190 Cout=1
+A=191 B=255 Cin=0 | Sum=190 Cout=1
+A=191 B=255 Cin=1 | Sum=191 Cout=1
+A=192 B= 40 Cin=0 | Sum=232 Cout=0
+A=192 B= 40 Cin=1 | Sum=233 Cout=0
+A=192 B= 41 Cin=0 | Sum=233 Cout=0
+A=192 B= 41 Cin=1 | Sum=234 Cout=0
+A=192 B= 42 Cin=0 | Sum=234 Cout=0
+A=192 B= 42 Cin=1 | Sum=235 Cout=0
+A=192 B= 43 Cin=0 | Sum=235 Cout=0
+A=192 B= 43 Cin=1 | Sum=232 Cout=0
+A=192 B= 44 Cin=0 | Sum=236 Cout=0
+A=192 B= 44 Cin=1 | Sum=237 Cout=0
+A=192 B= 45 Cin=0 | Sum=237 Cout=0
+A=192 B= 45 Cin=1 | Sum=102 Cout=0
+A=192 B= 46 Cin=0 | Sum=238 Cout=0
+A=192 B= 46 Cin=1 | Sum=239 Cout=0
+A=192 B= 47 Cin=0 | Sum=239 Cout=0
+A=192 B= 47 Cin=1 | Sum=100 Cout=0
+A=192 B= 48 Cin=0 | Sum=240 Cout=0
+A=192 B= 48 Cin=1 | Sum=241 Cout=0
+A=192 B= 49 Cin=0 | Sum=241 Cout=0
+A=192 B= 49 Cin=1 | Sum=210 Cout=0
+A=192 B= 50 Cin=0 | Sum=242 Cout=0
+A=192 B= 50 Cin=1 | Sum=243 Cout=0
+A=192 B= 51 Cin=0 | Sum=243 Cout=0
+A=192 B= 51 Cin=1 | Sum=208 Cout=0
+A=192 B= 52 Cin=0 | Sum=244 Cout=0
+A=192 B= 52 Cin=1 | Sum=245 Cout=0
+A=192 B= 53 Cin=0 | Sum=245 Cout=0
+A=192 B= 53 Cin=1 | Sum= 94 Cout=0
+A=192 B= 54 Cin=0 | Sum=246 Cout=0
+A=192 B= 54 Cin=1 | Sum=247 Cout=0
+A=192 B= 55 Cin=0 | Sum=247 Cout=0
+A=192 B= 55 Cin=1 | Sum= 92 Cout=0
+A=192 B= 56 Cin=0 | Sum=248 Cout=0
+A=192 B= 56 Cin=1 | Sum=249 Cout=0
+A=192 B= 57 Cin=0 | Sum=249 Cout=0
+A=192 B= 57 Cin=1 | Sum=218 Cout=0
+A=192 B= 58 Cin=0 | Sum=250 Cout=0
+A=192 B= 58 Cin=1 | Sum=251 Cout=0
+A=192 B= 59 Cin=0 | Sum=251 Cout=0
+A=192 B= 59 Cin=1 | Sum=216 Cout=0
+A=192 B= 60 Cin=0 | Sum=252 Cout=0
+A=192 B= 60 Cin=1 | Sum=253 Cout=0
+A=192 B= 61 Cin=0 | Sum=253 Cout=0
+A=192 B= 61 Cin=1 | Sum= 86 Cout=0
+A=192 B= 62 Cin=0 | Sum=254 Cout=0
+A=192 B= 62 Cin=1 | Sum=255 Cout=0
+A=192 B= 63 Cin=0 | Sum=255 Cout=0
+A=192 B= 63 Cin=1 | Sum= 84 Cout=0
+A=192 B= 64 Cin=0 | Sum=  0 Cout=1
+A=192 B= 64 Cin=1 | Sum=  1 Cout=1
+A=192 B= 65 Cin=0 | Sum=  1 Cout=1
+A=192 B= 65 Cin=1 | Sum=  2 Cout=1
+A=192 B= 66 Cin=0 | Sum=  2 Cout=1
+A=192 B= 66 Cin=1 | Sum=  3 Cout=1
+A=192 B= 67 Cin=0 | Sum=  3 Cout=1
+A=192 B= 67 Cin=1 | Sum=  0 Cout=1
+A=192 B= 68 Cin=0 | Sum=  4 Cout=1
+A=192 B= 68 Cin=1 | Sum=  5 Cout=1
+A=192 B= 69 Cin=0 | Sum=  5 Cout=1
+A=192 B= 69 Cin=1 | Sum= 14 Cout=1
+A=192 B= 70 Cin=0 | Sum=  6 Cout=1
+A=192 B= 70 Cin=1 | Sum=  7 Cout=1
+A=192 B= 71 Cin=0 | Sum=  7 Cout=1
+A=192 B= 71 Cin=1 | Sum= 12 Cout=1
+A=192 B= 72 Cin=0 | Sum=  8 Cout=1
+A=192 B= 72 Cin=1 | Sum=  9 Cout=1
+A=192 B= 73 Cin=0 | Sum=  9 Cout=1
+A=192 B= 73 Cin=1 | Sum= 10 Cout=1
+A=192 B= 74 Cin=0 | Sum= 10 Cout=1
+A=192 B= 74 Cin=1 | Sum= 11 Cout=1
+A=192 B= 75 Cin=0 | Sum= 11 Cout=1
+A=192 B= 75 Cin=1 |

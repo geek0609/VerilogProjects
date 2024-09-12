@@ -39,14 +39,16 @@ module kogge_stone_adder_8bit(input [7:0] A, B, input Cin, output [7:0] Sum, out
   assign G1[6] = G[6] | (P[6] & G[5]);
   assign G1[7] = G[7] | (P[7] & G[6]);
 
-  assign P1[0] = P[0];
-  assign P1[1] = P[1] & P[0];
-  assign P1[2] = P[2] & P[1];
-  assign P1[3] = P[3] & P[2];
-  assign P1[4] = P[4] & P[3];
-  assign P1[5] = P[5] & P[4];
-  assign P1[6] = P[6] & P[5];
-  assign P1[7] = P[7] & P[6];
+//  assign P1[0] = P[0];
+//  assign P1[1] = P[1] & P[0];
+//  assign P1[2] = P[2] & P[1];
+//  assign P1[3] = P[3] & P[2];
+//  assign P1[4] = P[4] & P[3];
+//  assign P1[5] = P[5] & P[4];
+//  assign P1[6] = P[6] & P[5];
+//  assign P1[7] = P[7] & P[6];
+
+  assign P1 = P;
 
   assign G2[0] = G1[0];
   assign G2[1] = G1[1];
@@ -57,14 +59,16 @@ module kogge_stone_adder_8bit(input [7:0] A, B, input Cin, output [7:0] Sum, out
   assign G2[6] = G1[6] | (P1[6] & G1[4]);
   assign G2[7] = G1[7] | (P1[7] & G1[5]);
 
-  assign P2[0] = P1[0];
-  assign P2[1] = P1[1];
-  assign P2[2] = P1[2] & P1[0];
-  assign P2[3] = P1[3] & P1[1];
-  assign P2[4] = P1[4] & P1[2];
-  assign P2[5] = P1[5] & P1[3];
-  assign P2[6] = P1[6] & P1[4];
-  assign P2[7] = P1[7] & P1[5];
+//  assign P2[0] = P1[0];
+//  assign P2[1] = P1[1];
+//  assign P2[2] = P1[2] & P1[0];
+//  assign P2[3] = P1[3] & P1[1];
+//  assign P2[4] = P1[4] & P1[2];
+//  assign P2[5] = P1[5] & P1[3];
+//  assign P2[6] = P1[6] & P1[4];
+//  assign P2[7] = P1[7] & P1[5];
+
+  assign P2 = P1;
 
   assign G3[0] = G2[0];
   assign G3[1] = G2[1];
