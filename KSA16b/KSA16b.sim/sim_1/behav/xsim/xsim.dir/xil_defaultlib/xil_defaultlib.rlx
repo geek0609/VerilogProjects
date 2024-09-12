@@ -1,0 +1,8 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+D:/VeriLogProjects/KSA16b/KSA16b.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+D:/VeriLogProjects/KSA16b/KSA16b.srcs/sim_1/new/tb.v,1726133255,verilog,,,,tb,,,,,,,,
+D:/VeriLogProjects/KSA16b/KSA16b.srcs/sources_1/new/kogge_stone_adder_16bit.v,1726132822,verilog,,D:/VeriLogProjects/KSA16b/KSA16b.srcs/sources_1/new/kogge_stone_adder_8bit.v,,kogge_stone_adder_16bit,,,,,,,,
+D:/VeriLogProjects/KSA16b/KSA16b.srcs/sources_1/new/kogge_stone_adder_8bit.v,1726132483,verilog,,D:/VeriLogProjects/KSA16b/KSA16b.srcs/sim_1/new/tb.v,,kogge_stone_adder_8bit,,,,,,,,

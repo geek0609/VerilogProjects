@@ -44,7 +44,7 @@ module tb();
   end
 
   initial begin
-    $monitor("A=%d B=%d Cin=%d | Sum=%d Cout=%d", A, B, Cin, Sum, Cout);
+    $monitor("A=%d B=%d Cin=%d | Sum=%b Cout=%b", A, B, Cin, Sum, Cout);
   end
 
 endmodule

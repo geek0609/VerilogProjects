@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../KSA16b.srcs/sources_1/new/kogge_stone_adder_16bit.v" \
+"../../../../KSA16b.srcs/sources_1/new/kogge_stone_adder_8bit.v" \
+"../../../../KSA16b.srcs/sim_1/new/tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
