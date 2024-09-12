@@ -21,16 +21,15 @@
 
 
 module kogge_stone_adder_8bit(input [7:0] A, B, input Cin, output [7:0] Sum, output Cout);
-  wire [7:0] G, P;        // Generate and Propagate
-  wire [7:0] C;           // Carry
-  wire [7:0] G1, P1;      // Stage 1 Generate and Propagate
-  wire [7:0] G2, P2;      // Stage 2 Generate and Propagate
-  wire [7:0] G3, P3;      // Stage 3 Generate and Propagate
+  wire [7:0] G, P;  
+  wire [7:0] C;        
+  wire [7:0] G1, P1;    
+  wire [7:0] G2, P2; 
+  wire [7:0] G3, P3;  
 
-  assign G = A & B;       // Generate
-  assign P = A ^ B;       // Propagate
+  assign G = A & B;
+  assign P = A ^ B;
 
-  // Stage 1
   assign G1[0] = G[0] | (P[0] & Cin);
   assign G1[1] = G[1] | (P[1] & G[0]);
   assign G1[2] = G[2] | (P[2] & G[1]);
@@ -49,7 +48,6 @@ module kogge_stone_adder_8bit(input [7:0] A, B, input Cin, output [7:0] Sum, out
   assign P1[6] = P[6] & P[5];
   assign P1[7] = P[7] & P[6];
 
-  // Stage 2
   assign G2[0] = G1[0];
   assign G2[1] = G1[1];
   assign G2[2] = G1[2] | (P1[2] & G1[0]);
@@ -68,7 +66,6 @@ module kogge_stone_adder_8bit(input [7:0] A, B, input Cin, output [7:0] Sum, out
   assign P2[6] = P1[6] & P1[4];
   assign P2[7] = P1[7] & P1[5];
 
-  // Stage 3
   assign G3[0] = G2[0];
   assign G3[1] = G2[1];
   assign G3[2] = G2[2];
@@ -78,7 +75,6 @@ module kogge_stone_adder_8bit(input [7:0] A, B, input Cin, output [7:0] Sum, out
   assign G3[6] = G2[6] | (P2[6] & G2[2]);
   assign G3[7] = G2[7] | (P2[7] & G2[3]);
 
-  // Carry generation
   assign C[0] = Cin;
   assign C[1] = G3[0];
   assign C[2] = G3[1];
@@ -89,7 +85,6 @@ module kogge_stone_adder_8bit(input [7:0] A, B, input Cin, output [7:0] Sum, out
   assign C[7] = G3[6];
   assign Cout = G3[7];
 
-  // Sum calculation
   assign Sum = P ^ C;
 endmodule
 

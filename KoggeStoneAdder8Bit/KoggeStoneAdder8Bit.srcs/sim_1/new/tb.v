@@ -32,9 +32,12 @@ module tb();
   initial begin
     for (integer i = 190 ; i<256 ;  i=i+1) begin
     for (integer j = 40 ; j<256 ;  j=j+1) begin
+    for (integer c = 0; c<2 ; c=c+1) begin
             A = i;
             B = j;
+            Cin = c;
             #1;
+    end
     end 
     end
     $finish;

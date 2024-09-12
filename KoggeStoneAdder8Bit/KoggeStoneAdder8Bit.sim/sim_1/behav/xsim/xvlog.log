@@ -2,5 +2,6 @@ INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VeriLogProjects/KoggeStoneAdder8
 INFO: [VRFC 10-311] analyzing module kogge_stone_adder_8bit
 INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VeriLogProjects/KoggeStoneAdder8Bit/KoggeStoneAdder8Bit.srcs/sim_1/new/tb.v" into library xil_defaultlib
 INFO: [VRFC 10-311] analyzing module tb
+WARNING: [VRFC 10-8374] loop variable declaration is not allowed in this mode of Verilog [D:/VeriLogProjects/KoggeStoneAdder8Bit/KoggeStoneAdder8Bit.srcs/sim_1/new/tb.v:35]
+WARNING: [VRFC 10-8374] loop variable declaration is not allowed in this mode of Verilog [D:/VeriLogProjects/KoggeStoneAdder8Bit/KoggeStoneAdder8Bit.srcs/sim_1/new/tb.v:34]
 WARNING: [VRFC 10-8374] loop variable declaration is not allowed in this mode of Verilog [D:/VeriLogProjects/KoggeStoneAdder8Bit/KoggeStoneAdder8Bit.srcs/sim_1/new/tb.v:33]
-WARNING: [VRFC 10-8374] loop variable declaration is not allowed in this mode of Verilog [D:/VeriLogProjects/KoggeStoneAdder8Bit/KoggeStoneAdder8Bit.srcs/sim_1/new/tb.v:32]
