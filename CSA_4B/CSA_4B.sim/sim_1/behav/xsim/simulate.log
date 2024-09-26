@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+Time: 0 | a = 0000, b = 0000, cin = 0 | sum = 0000, cout = 0
+Time: 10000 | a = 0001, b = 0001, cin = 0 | sum = 0010, cout = 0
+Time: 20000 | a = 0010, b = 0011, cin = 0 | sum = 0101, cout = 0
+Time: 30000 | a = 0101, b = 0110, cin = 0 | sum = 1011, cout = 0
+Time: 40000 | a = 1111, b = 1111, cin = 0 | sum = 1110, cout = 1
+Time: 50000 | a = 1010, b = 0101, cin = 1 | sum = 0000, cout = 1
+Time: 60000 | a = 1001, b = 1001, cin = 1 | sum = 0011, cout = 1
+Time: 70000 | a = 1101, b = 0111, cin = 1 | sum = 0101, cout = 1
+$finish called at time : 80 ns : File "D:/VeriLogProjects/CSA_4B/CSA_4B.srcs/sim_1/new/carry_select_adder_tb.v" Line 43

@@ -997,4 +997,6 @@ A=65530 B=  507 Cin=0 | Sum=  501 Cout=1
 A=65530 B=  507 Cin=1 | Sum=  502 Cout=1
 A=65530 B=  508 Cin=0 | Sum=  502 Cout=1
 A=65530 B=  508 Cin=1 | Sum=  503 Cout=1
-A=65530 B=  509 Ci
+A=65530 B=  509 Cin=0 | Sum=  503 Cout=1
+A=65530 B=  509 Cin=1 | Sum=  508 Cout=1
+A=65530 B=  510 Cin=0 | Sum=  504 Cout=1
