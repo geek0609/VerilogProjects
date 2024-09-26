@@ -22,11 +22,11 @@
 
 module tb();
 
-    reg t;
+    reg d;
     reg clk, reset;
     wire Q;
     
-    sr ff (t,clk,reset,Q);
+    dff ff (d,clk,reset,Q);
     
     initial begin
         clk = 0;

@@ -3,7 +3,7 @@
 // Company: 
 // Engineer: 
 // 
-// Create Date: 09/26/2024 02:01:56 PM
+// Create Date: 09/26/2024 03:08:48 PM
 // Design Name: 
 // Module Name: tb
 // Project Name: 
@@ -20,34 +20,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module tb();
+module tb(
 
-    reg t;
-    reg clk, reset;
-    wire Q;
-    
-    sr ff (t,clk,reset,Q);
-    
-    initial begin
-        clk = 0;
-        forever #5 clk = ~clk;
-    end    
-    
-    initial begin
-        reset = 1;
-        #10
-        reset = 0;
-        t=1; #10
-    
-        t=0; #10;
-        
-        t=0; #10
-        
-        t=1; #10
-        
-        t=0; #10
-        
-        $stop;
-    end
-    
+    );
 endmodule
