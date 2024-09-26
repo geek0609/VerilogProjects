@@ -3,9 +3,9 @@
 // Company: 
 // Engineer: 
 // 
-// Create Date: 09/26/2024 02:01:56 PM
+// Create Date: 09/26/2024 02:25:13 PM
 // Design Name: 
-// Module Name: tb
+// Module Name: design
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
@@ -20,34 +20,17 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module tb();
-
-    reg d;
-    reg clk, reset;
-    wire Q;
+module dff(
+    input D,clk, reset,
+    output reg Q
+    );
     
-    dff ff (d,clk,reset,Q);
+    always @ (posedge clk or posedge reset) begin
     
-    initial begin
-        clk = 0;
-        forever #5 clk = ~clk;
-    end    
-    
-    initial begin
-        reset = 1;
-        #10
-        reset = 0;
-        t=1; #10
-    
-        t=0; #10;
-        
-        t=0; #10
-        
-        t=1; #10
-        
-        t=0; #10
-        
-        $stop;
+    if (reset)
+        Q <= 1'b0;
+    else
+        Q = D;
     end
     
 endmodule

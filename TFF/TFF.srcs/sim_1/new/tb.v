@@ -26,7 +26,7 @@ module tb();
     reg clk, reset;
     wire Q;
     
-    sr ff (t,clk,reset,Q);
+    tff ff (t,clk,reset,Q);
     
     initial begin
         clk = 0;
@@ -34,6 +34,7 @@ module tb();
     end    
     
     initial begin
+        t=0;
         reset = 1;
         #10
         reset = 0;
