@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GenRun Id="synth_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1726213861">
   <File Type="PA-TCL" Name="rca8.tcl"/>
-  <File Type="RDS-PROPCONSTRS" Name="rca8_drc_synth.rpt"/>
   <File Type="REPORTS-TCL" Name="rca8_reports.tcl"/>
   <File Type="RDS-RDS" Name="rca8.vds"/>
   <File Type="RDS-UTIL" Name="rca8_utilization_synth.rpt"/>
   <File Type="RDS-UTIL-PB" Name="rca8_utilization_synth.pb"/>
   <File Type="RDS-DCP" Name="rca8.dcp"/>
-  <File Type="VDS-TIMINGSUMMARY" Name="rca8_timing_summary_synth.rpt"/>
-  <File Type="VDS-TIMING-PB" Name="rca8_timing_summary_synth.pb"/>
   <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
     <Filter Type="Srcs"/>
     <File Path="$PSRCDIR/sources_1/new/fa.v">
@@ -51,9 +48,7 @@
     </Config>
   </FileSet>
   <Strategy Version="1" Minor="2">
-    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2024">
-      <Desc>Vivado Synthesis Defaults</Desc>
-    </StratHandle>
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2024"/>
     <Step Id="synth_design"/>
   </Strategy>
 </GenRun>
