@@ -56,11 +56,6 @@ if {$::dispatch::connected} {
 }
 
 OPTRACE "synth_1" START { ROLLUP_AUTO }
-set_param checkpoint.writeSynthRtdsInDcp 1
-set_param synth.incrementalSynthesisCache C:/Users/astro/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-24324-Ashwin-TUF/incrSyn
-set_msg_config -id {Common 17-41} -limit 10000000
-set_msg_config -id {Synth 8-256} -limit 10000
-set_msg_config -id {Synth 8-638} -limit 10000
 set_msg_config  -id {17-179}  -suppress 
 set_msg_config  -id {17-179}  -suppress 
 set_msg_config  -id {17-179}  -suppress 
@@ -76,7 +71,7 @@ set_msg_config  -id {17-179}  -suppress
 set_msg_config  -id {17-179}  -suppress 
 set_msg_config  -id {17-179}  -suppress 
 OPTRACE "Creating in-memory project" START { }
-create_project -in_memory -part xc7k70tfbv676-1
+create_project -in_memory -part xc7a100ticsg324-1L
 
 set_param project.singleFileAddWarning.threshold 0
 set_param project.compositeFile.enableAutoGeneration 0
@@ -99,11 +94,14 @@ OPTRACE "Adding files" END { }
 foreach dcp [get_files -quiet -all -filter file_type=="Design\ Checkpoint"] {
   set_property used_in_implementation false $dcp
 }
+read_xdc D:/VeriLogProjects/KoggeStoneAdder8Bit/KoggeStoneAdder8Bit.srcs/constrs_1/new/constr.xdc
+set_property used_in_implementation false [get_files D:/VeriLogProjects/KoggeStoneAdder8Bit/KoggeStoneAdder8Bit.srcs/constrs_1/new/constr.xdc]
+
 set_param ips.enableIPCacheLiteLoad 1
 close [open __synthesis_is_running__ w]
 
 OPTRACE "synth_design" START { }
-synth_design -top kogge_stone_adder_8bit -part xc7k70tfbv676-1
+synth_design -top kogge_stone_adder_8bit -part xc7a100ticsg324-1L
 OPTRACE "synth_design" END { }
 if { [get_msg_config -count -severity {CRITICAL WARNING}] > 0 } {
  send_msg_id runtcl-6 info "Synthesis results are not added to the cache due to CRITICAL_WARNING"
@@ -116,7 +114,7 @@ set_param constraints.enableBinaryConstraints false
 write_checkpoint -force -noxdef kogge_stone_adder_8bit.dcp
 OPTRACE "write_checkpoint" END { }
 OPTRACE "synth reports" START { REPORT }
-generate_parallel_reports -reports { "report_utilization -file kogge_stone_adder_8bit_utilization_synth.rpt -pb kogge_stone_adder_8bit_utilization_synth.pb"  } 
+generate_parallel_reports -reports { "report_utilization -file kogge_stone_adder_8bit_utilization_synth.rpt -pb kogge_stone_adder_8bit_utilization_synth.pb" "report_bus_skew -file synth_report_bus_skew_0.rpt -pb synth_report_bus_skew_0.pb -rpx synth_report_bus_skew_0.rpx" "report_clock_utilization -file synth_report_clock_utilization_0.rpt"  } 
 OPTRACE "synth reports" END { }
 file delete __synthesis_is_running__
 close [open __synthesis_is_complete__ w]
