@@ -2,4 +2,6 @@ INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VeriLogProjects/fulladder/fullad
 INFO: [VRFC 10-311] analyzing module fullAdder
 INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VeriLogProjects/fulladder/fulladder.srcs/sim_1/new/fullAddder1.v" into library xil_defaultlib
 INFO: [VRFC 10-311] analyzing module fullAdder1
-WARNING: [VRFC 10-2096] empty statement in sequential block [D:/VeriLogProjects/fulladder/fulladder.srcs/sim_1/new/fullAddder1.v:30]
+WARNING: [VRFC 10-2096] empty statement in sequential block [D:/VeriLogProjects/fulladder/fulladder.srcs/sim_1/new/fullAddder1.v:29]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VeriLogProjects/fulladder/fulladder.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

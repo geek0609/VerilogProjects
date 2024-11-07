@@ -1,0 +1,4 @@
+Running: xsim.dir/async_updown_counter_tb_behav/xsimk.exe -simmode gui -wdb async_updown_counter_tb_behav.wdb -simrunnum 0 -socket 52470
+Design successfully loaded
+Design Loading Memory Usage: 9020 KB (Peak: 9020 KB)
+Design Loading CPU Usage: 15 ms

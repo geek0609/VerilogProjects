@@ -1,0 +1,8 @@
+0.7
+2020.2
+Sep  5 2024
+15:23:16
+D:/VeriLogProjects/4bASyncUD/4bASyncUD.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+D:/VeriLogProjects/4bASyncUD/4bASyncUD.srcs/sources_1/new/async_updown_counter.v,1728033650,verilog,,D:/VeriLogProjects/4bASyncUD/4bASyncUD.srcs/sources_1/new/jk.v,,async_updown_counter,,,,,,,,
+D:/VeriLogProjects/4bASyncUD/4bASyncUD.srcs/sources_1/new/async_updown_counter_tb.v,1728031720,verilog,,,,async_updown_counter_tb,,,,,,,,
+D:/VeriLogProjects/4bASyncUD/4bASyncUD.srcs/sources_1/new/jk.v,1728031101,verilog,,D:/VeriLogProjects/4bASyncUD/4bASyncUD.srcs/sources_1/new/async_updown_counter_tb.v,,jk,,,,,,,,

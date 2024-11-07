@@ -1,0 +1,14 @@
+Time resolution is 1 ps
+Time=0 ns, sw=00000000, a= 0, b= 0, operation=00, result=00, seg=1000000, an=1110
+Time=100 ns, sw=00000101, a= 0, b= 0, operation=00, result=00, seg=1000000, an=1110
+Time=110 ns, sw=00010101, a= 5, b= 0, operation=00, result=05, seg=0010010, an=1110
+Time=120 ns, sw=00100011, a= 5, b= 0, operation=00, result=05, seg=0010010, an=1110
+Time=130 ns, sw=00110011, a= 5, b= 3, operation=00, result=08, seg=0000000, an=1110
+Time=140 ns, sw=00100011, a= 5, b= 3, operation=00, result=08, seg=0000000, an=1110
+Time=240 ns, sw=01100011, a= 5, b= 3, operation=01, result=02, seg=0100100, an=1110
+Time=340 ns, sw=10100011, a= 5, b= 3, operation=10, result=0f, seg=0001110, an=1110
+Time=440 ns, sw=11100011, a= 5, b= 3, operation=11, result=01, seg=1111001, an=1110
+Time=540 ns, sw=11100000, a= 5, b= 3, operation=11, result=01, seg=1111001, an=1110
+Time=550 ns, sw=11110000, a= 5, b= 0, operation=11, result=ee, seg=0000110, an=1110
+Time=560 ns, sw=11100000, a= 5, b= 0, operation=11, result=ee, seg=0000110, an=1110
+$stop called at time : 660 ns : File "D:/VeriLogProjects/calculator/calculator.srcs/sim_1/new/calculator_tb.v" Line 72

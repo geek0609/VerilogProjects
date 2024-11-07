@@ -1,0 +1,8 @@
+Time resolution is 1 ps
+Test Case 1:
+Multiplicand:  25, Multiplier:  11, Product:   275
+Test Case 2:
+Multiplicand:  35, Multiplier:   3, Product:   105
+Test Case 3:
+Multiplicand: 100, Multiplier:   6, Product:   600
+$finish called at time : 735 ns : File "D:/VeriLogProjects/Multiplier_Architecture/Multiplier_Architecture.srcs/sim_1/new/tb.v" Line 70

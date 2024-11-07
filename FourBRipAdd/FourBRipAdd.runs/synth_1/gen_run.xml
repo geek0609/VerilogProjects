@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GenRun Id="synth_1" LaunchPart="xc7k70tfbv676-1" LaunchTime="1726138543">
   <File Type="PA-TCL" Name="ripple_carry_adder_4bit.tcl"/>
-  <File Type="RDS-PROPCONSTRS" Name="ripple_carry_adder_4bit_drc_synth.rpt"/>
   <File Type="REPORTS-TCL" Name="ripple_carry_adder_4bit_reports.tcl"/>
   <File Type="RDS-RDS" Name="ripple_carry_adder_4bit.vds"/>
   <File Type="RDS-UTIL" Name="ripple_carry_adder_4bit_utilization_synth.rpt"/>
   <File Type="RDS-UTIL-PB" Name="ripple_carry_adder_4bit_utilization_synth.pb"/>
   <File Type="RDS-DCP" Name="ripple_carry_adder_4bit.dcp"/>
-  <File Type="VDS-TIMINGSUMMARY" Name="ripple_carry_adder_4bit_timing_summary_synth.rpt"/>
-  <File Type="VDS-TIMING-PB" Name="ripple_carry_adder_4bit_timing_summary_synth.pb"/>
   <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
     <Filter Type="Srcs"/>
     <File Path="$PSRCDIR/sources_1/new/full_adder.v">

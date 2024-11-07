@@ -1,0 +1,9 @@
+0.7
+2020.2
+Sep  5 2024
+15:23:16
+D:/VeriLogProjects/16b_Mul_TopDown/16b_Mul_TopDown.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+D:/VeriLogProjects/16b_Mul_TopDown/16b_Mul_TopDown.srcs/sim_1/new/testbench.v,1730432646,verilog,,,,testbench,,,,,,,,
+D:/VeriLogProjects/16b_Mul_TopDown/16b_Mul_TopDown.srcs/sources_1/new/adder32.v,1730432611,verilog,,D:/VeriLogProjects/16b_Mul_TopDown/16b_Mul_TopDown.srcs/sources_1/new/multiplier_16bit.v,,adder32,,,,,,,,
+D:/VeriLogProjects/16b_Mul_TopDown/16b_Mul_TopDown.srcs/sources_1/new/multiplier_16bit.v,1730432559,verilog,,D:/VeriLogProjects/16b_Mul_TopDown/16b_Mul_TopDown.srcs/sources_1/new/partial_product.v,,multiplier_16bit,,,,,,,,
+D:/VeriLogProjects/16b_Mul_TopDown/16b_Mul_TopDown.srcs/sources_1/new/partial_product.v,1730432586,verilog,,D:/VeriLogProjects/16b_Mul_TopDown/16b_Mul_TopDown.srcs/sim_1/new/testbench.v,,partial_product,,,,,,,,
