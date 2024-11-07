@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VeriLogProjects/8bSBA/8bSBA.srcs/sources_1/new/Controller.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Controller
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VeriLogProjects/8bSBA/8bSBA.srcs/sources_1/new/FullAdder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FullAdder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VeriLogProjects/8bSBA/8bSBA.srcs/sources_1/new/SerialAdder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SerialAdder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VeriLogProjects/8bSBA/8bSBA.srcs/sources_1/new/ShiftRegister.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ShiftReg
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VeriLogProjects/8bSBA/8bSBA.srcs/sim_1/new/SerialAdder_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SerialAdder_tb
