@@ -1,6 +1,0 @@
-Time resolution is 1 ps
-Time=0 a=1234 b=5678 product=06260060
-Time=10 a=ffff b=0001 product=0000ffff
-Time=20 a=abcd b=ef01 product=a0650ecd
-Time=30 a=0000 b=ffff product=00000000
-$finish called at time : 40 ns : File "D:/VeriLogProjects/16b_Mul_TopDown/16b_Mul_TopDown.srcs/sim_1/new/testbench.v" Line 29

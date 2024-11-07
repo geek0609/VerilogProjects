@@ -1,8 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VeriLogProjects/16b_Mul_TopDown/16b_Mul_TopDown.srcs/sources_1/new/adder32.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module adder32
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VeriLogProjects/16b_Mul_TopDown/16b_Mul_TopDown.srcs/sources_1/new/multiplier_16bit.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module multiplier_16bit
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VeriLogProjects/16b_Mul_TopDown/16b_Mul_TopDown.srcs/sources_1/new/partial_product.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module partial_product
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VeriLogProjects/16b_Mul_TopDown/16b_Mul_TopDown.srcs/sim_1/new/testbench.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module testbench
