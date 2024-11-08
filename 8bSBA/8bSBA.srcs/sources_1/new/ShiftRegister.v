@@ -16,4 +16,3 @@ module ShiftReg #(parameter N = 8)(
     end
 
 endmodule
-    

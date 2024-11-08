@@ -2,7 +2,7 @@ module SerialAdder #(parameter N = 8)(
     input clk, rst, start,
     input [N-1:0] A_in,
     input [N-1:0] B_in,
-    output [N-1:0] Sum_out,
+    output reg [N-1:0] Sum_out,
     output done
     );
 
@@ -21,6 +21,7 @@ module SerialAdder #(parameter N = 8)(
         .done(done)
     );
 
+    // Shift registers for A and B, shifting right
     ShiftReg #(N) ShiftRegA_inst(
         .clk(clk),
         .rst(rst),
@@ -41,16 +42,7 @@ module SerialAdder #(parameter N = 8)(
         .Out(ShiftRegB)
     );
 
-    ShiftReg #(N) ShiftRegSum_inst(
-        .clk(clk),
-        .rst(rst),
-        .load(0),
-        .ShiftIn(Sum_bit),
-        .Shift(shift),
-        .In(0),
-        .Out(Sum_out)
-    );
-
+    // Full Adder processing bits from LSB
     FullAdder FA(
         .A(ShiftRegA[0]),
         .B(ShiftRegB[0]),
@@ -59,20 +51,29 @@ module SerialAdder #(parameter N = 8)(
         .Cout(Cout)
     );
 
+    reg [$clog2(N):0] bit_count; // Counter for bit position
+
     always @(posedge clk or posedge rst) begin
         if (rst) begin
             Cin <= 0;
+            Sum_out <= 0;
+            bit_count <= 0;
         end else if (load) begin
             Cin <= 0;
+            Sum_out <= 0;
+            bit_count <= 0;
         end else if (shift) begin
+            Sum_out[bit_count] <= Sum_bit; // Store sum bit at correct position
             Cin <= Cout;
+            bit_count <= bit_count + 1;
         end
     end
 
+    // Debugging statements
     always @(posedge clk) begin
         if (shift) begin
-            $display("Time %0t: A_bit=%b, B_bit=%b, Cin=%b, Sum_bit=%b, Cout=%b, Sum_out=%d",
-                      $time, ShiftRegA[0], ShiftRegB[0], Cin, Sum_bit, Cout, Sum_out);
+            $display("Time %0t: Bit %0d: A_bit=%b, B_bit=%b, Cin=%b, Sum_bit=%b, Cout=%b, Sum_out=%b",
+                      $time, bit_count, ShiftRegA[0], ShiftRegB[0], Cin, Sum_bit, Cout, Sum_out);
         end
     end
 

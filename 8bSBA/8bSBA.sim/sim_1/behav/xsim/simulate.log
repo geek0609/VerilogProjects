@@ -1,0 +1,56 @@
+Time resolution is 1 ps
+Time 0: rst=1, start=0, done=0, A_in=  0, B_in=  0, Sum_out=  0
+Time 10000: rst=0, start=0, done=0, A_in=  0, B_in=  0, Sum_out=  0
+Time 20000: rst=0, start=1, done=0, A_in= 25, B_in= 17, Sum_out=  0
+Time 30000: rst=0, start=0, done=0, A_in= 25, B_in= 17, Sum_out=  0
+Time 45000: Bit 0: A_bit=1, B_bit=1, Cin=0, Sum_bit=0, Cout=1, Sum_out=00000000
+Time 55000: Bit 1: A_bit=0, B_bit=0, Cin=1, Sum_bit=1, Cout=0, Sum_out=00000000
+Time 55000: rst=0, start=0, done=0, A_in= 25, B_in= 17, Sum_out=  2
+Time 65000: Bit 2: A_bit=0, B_bit=0, Cin=0, Sum_bit=0, Cout=0, Sum_out=00000010
+Time 75000: Bit 3: A_bit=1, B_bit=0, Cin=0, Sum_bit=1, Cout=0, Sum_out=00000010
+Time 75000: rst=0, start=0, done=0, A_in= 25, B_in= 17, Sum_out= 10
+Time 85000: Bit 4: A_bit=1, B_bit=1, Cin=0, Sum_bit=0, Cout=1, Sum_out=00001010
+Time 95000: Bit 5: A_bit=0, B_bit=0, Cin=1, Sum_bit=1, Cout=0, Sum_out=00001010
+Time 95000: rst=0, start=0, done=0, A_in= 25, B_in= 17, Sum_out= 42
+Time 105000: Bit 6: A_bit=0, B_bit=0, Cin=0, Sum_bit=0, Cout=0, Sum_out=00101010
+Time 115000: Bit 7: A_bit=0, B_bit=0, Cin=0, Sum_bit=0, Cout=0, Sum_out=00101010
+Time 125000: Bit 8: A_bit=0, B_bit=0, Cin=0, Sum_bit=0, Cout=0, Sum_out=00101010
+Time 125000: rst=0, start=0, done=1, A_in= 25, B_in= 17, Sum_out= 42
+Test 1 Result:  25 +  17 =  42
+Time 155000: rst=1, start=0, done=0, A_in= 25, B_in= 17, Sum_out=  0
+Time 165000: rst=0, start=1, done=0, A_in=100, B_in= 55, Sum_out=  0
+Time 175000: rst=0, start=0, done=0, A_in=100, B_in= 55, Sum_out=  0
+Time 185000: Bit 0: A_bit=0, B_bit=1, Cin=0, Sum_bit=1, Cout=0, Sum_out=00000000
+Time 185000: rst=0, start=0, done=0, A_in=100, B_in= 55, Sum_out=  1
+Time 195000: Bit 1: A_bit=0, B_bit=1, Cin=0, Sum_bit=1, Cout=0, Sum_out=00000001
+Time 195000: rst=0, start=0, done=0, A_in=100, B_in= 55, Sum_out=  3
+Time 205000: Bit 2: A_bit=1, B_bit=1, Cin=0, Sum_bit=0, Cout=1, Sum_out=00000011
+Time 215000: Bit 3: A_bit=0, B_bit=0, Cin=1, Sum_bit=1, Cout=0, Sum_out=00000011
+Time 215000: rst=0, start=0, done=0, A_in=100, B_in= 55, Sum_out= 11
+Time 225000: Bit 4: A_bit=0, B_bit=1, Cin=0, Sum_bit=1, Cout=0, Sum_out=00001011
+Time 225000: rst=0, start=0, done=0, A_in=100, B_in= 55, Sum_out= 27
+Time 235000: Bit 5: A_bit=1, B_bit=1, Cin=0, Sum_bit=0, Cout=1, Sum_out=00011011
+Time 245000: Bit 6: A_bit=1, B_bit=0, Cin=1, Sum_bit=0, Cout=1, Sum_out=00011011
+Time 255000: Bit 7: A_bit=0, B_bit=0, Cin=1, Sum_bit=1, Cout=0, Sum_out=00011011
+Time 255000: rst=0, start=0, done=0, A_in=100, B_in= 55, Sum_out=155
+Time 265000: Bit 8: A_bit=0, B_bit=0, Cin=0, Sum_bit=0, Cout=0, Sum_out=10011011
+Time 265000: rst=0, start=0, done=1, A_in=100, B_in= 55, Sum_out=155
+Test 2 Result: 100 +  55 = 155
+Time 295000: rst=1, start=0, done=0, A_in=100, B_in= 55, Sum_out=  0
+Time 305000: rst=0, start=1, done=0, A_in=200, B_in=100, Sum_out=  0
+Time 315000: rst=0, start=0, done=0, A_in=200, B_in=100, Sum_out=  0
+Time 325000: Bit 0: A_bit=0, B_bit=0, Cin=0, Sum_bit=0, Cout=0, Sum_out=00000000
+Time 335000: Bit 1: A_bit=0, B_bit=0, Cin=0, Sum_bit=0, Cout=0, Sum_out=00000000
+Time 345000: Bit 2: A_bit=0, B_bit=1, Cin=0, Sum_bit=1, Cout=0, Sum_out=00000000
+Time 345000: rst=0, start=0, done=0, A_in=200, B_in=100, Sum_out=  4
+Time 355000: Bit 3: A_bit=1, B_bit=0, Cin=0, Sum_bit=1, Cout=0, Sum_out=00000100
+Time 355000: rst=0, start=0, done=0, A_in=200, B_in=100, Sum_out= 12
+Time 365000: Bit 4: A_bit=0, B_bit=0, Cin=0, Sum_bit=0, Cout=0, Sum_out=00001100
+Time 375000: Bit 5: A_bit=0, B_bit=1, Cin=0, Sum_bit=1, Cout=0, Sum_out=00001100
+Time 375000: rst=0, start=0, done=0, A_in=200, B_in=100, Sum_out= 44
+Time 385000: Bit 6: A_bit=1, B_bit=1, Cin=0, Sum_bit=0, Cout=1, Sum_out=00101100
+Time 395000: Bit 7: A_bit=1, B_bit=0, Cin=1, Sum_bit=0, Cout=1, Sum_out=00101100
+Time 405000: Bit 8: A_bit=0, B_bit=0, Cin=1, Sum_bit=1, Cout=0, Sum_out=00101100
+Time 405000: rst=0, start=0, done=1, A_in=200, B_in=100, Sum_out= 44
+Test 3 Result: 200 + 100 =  44
+$finish called at time : 435 ns : File "D:/VeriLogProjects/8bSBA/8bSBA.srcs/sim_1/new/SerialAdder_tb.v" Line 88

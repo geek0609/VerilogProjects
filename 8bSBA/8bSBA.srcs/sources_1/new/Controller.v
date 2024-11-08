@@ -18,7 +18,7 @@ module Controller #(parameter N = 8)(
             load  <= 0;
             shift <= 0;
             done  <= 0;
-            count <= N;
+            count <= 0;
             state <= IDLE;
         end else begin
             case (state)
@@ -26,7 +26,7 @@ module Controller #(parameter N = 8)(
                     done <= 0;
                     if (start) begin
                         load  <= 1;
-                        count <= N;
+                        count <= 0;
                         state <= LOAD;
                     end
                 end
@@ -36,16 +36,16 @@ module Controller #(parameter N = 8)(
                     state <= SHIFT;
                 end
                 SHIFT: begin
-                    if (count > 0) begin
-                        count <= count - 1;
-                        if (count == 1) begin
-                            shift <= 0;
-                            done  <= 1;
-                            state <= DONE;
-                        end
+                    if (count < N) begin
+                        count <= count + 1;
+                    end else begin
+                        shift <= 0;
+                        done  <= 1;
+                        state <= DONE;
                     end
                 end
                 DONE: begin
+                    // Remain in DONE state until reset
                 end
                 default: state <= IDLE;
             endcase
