@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VeriLogProjects/Sequence Detector/Sequence Detector.srcs/sources_1/new/sequence_detector.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sequence_detector
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'current_state' is not allowed [D:/VeriLogProjects/Sequence Detector/Sequence Detector.srcs/sources_1/new/sequence_detector.v:17]
+WARNING: [VRFC 10-3029] 'current_state' was previously declared without a range [D:/VeriLogProjects/Sequence Detector/Sequence Detector.srcs/sources_1/new/sequence_detector.v:17]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VeriLogProjects/Sequence Detector/Sequence Detector.srcs/sim_1/new/tb_sequence_detector.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_sequence_detector
